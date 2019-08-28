@@ -5,7 +5,6 @@ ruby '2.5.3'
 
 
 gem 'bootsnap', '>= 1.1.0', require: false
-gem "govuk_app_config", "~> 1"
 gem "govuk_publishing_components", "~> 18.3"
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'

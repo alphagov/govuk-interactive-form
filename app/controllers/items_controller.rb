@@ -2,7 +2,6 @@ class ItemsController < ApplicationController
   require 'csv'
 
   def index
-    sasf
     session[:uuid] = SecureRandom.uuid
     collection_data = Rails.application.config_for(:items)[params[:items]]
     if collection_data

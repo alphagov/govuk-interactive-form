@@ -3,3 +3,8 @@ development:
   example:
     item_file: "example_items.csv"
     answers_file: "example_answers.csv"
+
+production:
+  example:
+    item_file: "example_items.csv"
+    answers_file: "example_answers.csv"
