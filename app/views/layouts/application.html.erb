@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GovukTinder</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <%= javascript_include_tag 'application' %>
+    <%= javascript_include_tag 'items' %>
+    <%= stylesheet_link_tag 'application', media: 'all' %>
+    <%= yield :meta_tags %>
+    <%= yield :meta_section %>
+    <%= render 'govuk_publishing_components/components/meta_tags', content_item: @content_item %>
+  </head>
+
+  <body>
+    <div class="wrapper" id="wrapper">
+      <main id="content" role="main" class="content">
+        <%= yield %>
+      </main>
+    </div>
+  </body>
+</html>

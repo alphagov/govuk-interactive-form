@@ -1,0 +1,60 @@
+//@import "node_modules/govuk-frontend/govuk/all";
+@import "govuk_publishing_components/all_components";
+
+@import "conditionals";
+@import "colours";
+@import "typography";
+@import "css3";
+@import "grid_layout";
+@import "measurements";
+@import "design-patterns/buttons";
+
+
+.rotate-left {
+  transform: rotate(30deg) scale(0.8);
+  transition: 1s;
+  margin-left: 400px;
+  cursor: e-resize;
+  opacity: 0;
+  z-index: 10;
+}
+
+.rotate-right {
+  transform: rotate(-30deg) scale(0.8);
+  transition: 1s;
+  opacity: 0;
+  margin-left: -400px;
+  cursor: w-resize;
+  z-index: 10;
+}
+
+.item {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.content {
+  padding: 20px;
+}
+
+.answer-buttons {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#startButtonContainer .gem-c-button {
+  float: right
+}
+
+.iframe {
+  width: 100%;
+  height: 50vh;
+}
+
+.text-center {
+  text-align: center;
+}
