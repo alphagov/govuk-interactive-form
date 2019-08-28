@@ -1,0 +1,11 @@
+<div class="item" data-id="<%= item["id"] %>" data-index="<%= index %>" style="<%= if index > 0 then "display: none" end %>">
+  <%= render "govuk_publishing_components/components/heading", {
+    text: item["question"]
+  } %>
+  <div class="content">
+    <%= item["content"].to_s.html_safe %>
+    <% if item["url"].present? %>
+      <iframe src="<%= item["url"] %>" class="iframe"></iframe>
+    <% end %>
+  </div>
+</div>
