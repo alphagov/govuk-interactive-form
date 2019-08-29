@@ -1,10 +1,17 @@
 ---
-development:
+default: &default
   example:
     item_file: "example_items.csv"
     answers_file: "example_answers.csv"
+  taxonomy_detagging:
+    item_file: "taxon_untag_items.csv"
+    answers_file: "taxon_answers.csv"
+  taxonomy_retagging:
+    item_file: "taxon_retag_items.csv"
+    answers_file: "taxon_answers.csv"
+
+development:
+  <<: *default
 
 production:
-  example:
-    item_file: "example_items.csv"
-    answers_file: "example_answers.csv"
+  <<: *default

@@ -14,6 +14,8 @@ gem 'rails', '~> 5.2.3'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '~> 4.1'
 
+gem "govuk_app_config", "~> 1"
+gem "plek", "~> 3"
 
 group :development, :test do
   gem 'byebug', platforms: %i(mri mingw x64_mingw)

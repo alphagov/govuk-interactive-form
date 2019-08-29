@@ -62,3 +62,25 @@
 .float-right {
   float: right;
 }
+
+p,h1,h2,h3,h4,h5,h6 {
+  font-family: "GDS Transport", Arial, sans-serif;
+}
+
+.tab {
+  margin-left: 30px;
+}
+
+.inline {
+  display: inline;
+}
+
+#fixedBottom {
+  position: fixed;
+  bottom: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+  width: 100%;
+  background: white;
+}
