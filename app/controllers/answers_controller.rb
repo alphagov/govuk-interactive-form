@@ -6,6 +6,6 @@ class AnswersController < ApplicationController
 private
 
   def answer_parameters
-    params.require(:answer).permit(:collection, :user_name, :answer, :explanation, :item_id).merge(session_uuid: session[:uuid])
+    params.require(:answer).permit(:collection, :user_name, :question, :answer, :explanation, :item_id).merge(session_uuid: session[:uuid])
   end
 end

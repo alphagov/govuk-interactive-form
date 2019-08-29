@@ -19,6 +19,7 @@ $(document).on("click", ".answer-buttons button", function(){
 });
 
 function storeAnswer($item, $answer){
+  $("#answer_question").val($item.find(".question-container").find("h2").text());
   $("#answer_answer").val($answer.data("key"));
   $("#answer_item_id").val($item.data("id"));
   $("#answerForm").submit();
@@ -54,3 +55,12 @@ function showNextItem(){
     $("#finishedContainer").show();
   }
 }
+
+$(document).on("click", "#quitButtonContainer", function(){
+  var confirmation = confirm("Are you sure you want to quit?");
+  if (confirmation == true) {
+    $("#itemsContainer").hide();
+    $("#finishedContainer").show();
+  }
+
+});
