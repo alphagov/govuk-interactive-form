@@ -1,7 +1,9 @@
 <div class="item" data-id="<%= item["id"] %>" data-index="<%= index %>" style="<%= if index > 0 then "display: none" end %>">
-  <%= render "govuk_publishing_components/components/heading", {
-    text: item["question"]
-  } %>
+  <div class="question-container">
+    <%= render "govuk_publishing_components/components/heading", {
+      text: "#{index + 1}/#{item_count}: #{item["question"]}",
+    } %>
+  </div>
   <div class="content">
     <%= item["content"].to_s.html_safe %>
     <% if item["url"].present? %>
