@@ -9,6 +9,13 @@ default: &default
   taxonomy_retagging:
     item_file: "taxon_retag_items.csv"
     answers_file: "retag_taxon_answers.csv"
+  education_taxonomy_detagging:
+    item_file: "education_taxon_untag_items.csv"
+    answers_file: "untag_taxon_answers.csv"
+  education_taxonomy_retagging:
+    item_file: "education_taxon_retag_items.csv"
+    answers_file: "retag_taxon_answers.csv"
+
 
 development:
   <<: *default
