@@ -1,0 +1,72 @@
+Item id,Most popular answer,Unanimous?,No count,Skip count,Yes count,No explanations,Skip explanations,Yes explanations
+/government/news/ots-looks-to-recruit-senior-policy-advisors,Skip,"",4,3,1,"The content item is advertising for jobs; it's a news story. It's not about employment status.
+The page is advertising roles for employment; it's not about employment status or 'IR35'.","",""
+/government/news/chancellor-to-waive-vat-on-band-aid-anniversary-single,No,"",4,1,1,"It's about tax, but not about tax reform
+It's about VAT, but not about tax reform
+- should be a taxon on VAT","",Sort of
+/guidance/check-if-your-drink-is-liable-for-the-soft-drinks-industry-levy,No,"",2,0,1,"The page is about soft drinks, not alcohol","",""
+/government/statistics/announcements/betting-and-gaming-bulletin-september-2017,No,"",3,3,0,"This page is an announcement about a stats release and doesn't really have any content except for the date of release. The page content isn't about bingo duty specifically. Feasibly the bulletin itself could be, but that content is not on this page.
+I can see why it thought so but no, maybe gambling duties?
+A national statistics announcement. The release itself may well contain information about gambling duties, but this specific page does not.","Too far down the tree. Should it not be /Gambling duties?
+duplicate",""
+/government/news/x-factor-winners-charity-single-to-be-vat-free-chancellor-announces,No,"",5,1,0,"The page is a news article about a charity music single, not child benefit.
+Not about child benefit, but mentions children's charities. ",duplicate,""
+/government/statistics/announcements/venture-capital-trusts-distribution-of-numbers,No,"",5,1,0,"A statistics release announcement page, so doesn't really have any content except for a date and time. I don't think 'venture capital trusts' belong under 'software development for HMRC'.
+Not about 'software development for HMRC'.
+Weird suggestion",weird suggestion,""
+/government/publications/basic-paye-tools-first-time-users-download-and-install,No,Yes,3,0,0,"It's about PAYE and is already tagged to PAYE; it's not about the 'Construction Industry Scheme'. It should stay where it is.
+weird suggestion","",""
+/government/news/fugitive-jailed-as-expatriates-in-spain-urged-to-report-tobacco-smugglers,Yes,Yes,0,0,7,"","","Content is a news story about smuggling to avoid tax. There is information about reporting tax fraud (emai land phone number).
+Content is about reporting smuggling and tax fraud."
+/government/news/chancellor-to-waive-1-million-vat-on-tower-of-london-poppies,No,"",4,2,0,"Content is a news story about poppies. It's unrelated to pension schemes.
+About VAT relief, not pensions.","Weird suggestion
+duplicate",""
+/government/statistics/announcements/creative-industries-statistics,No,"",4,2,0,"Statistics release announcement; no real body content. Unrelated to software development for HMRC. Does mention tax credits and reliefs though.
+Content is a stats release announcement. The stats are about tax relief and not related to software development for HMRC.
+Business tax reform?","",""
+/government/collections/gwybodaeth-diogelwch-ar-gyfer-asiantau,Skip,"",1,4,1,Welsh.,Page is in Welsh.,nil pae
+/government/publications/vaccine-research-relief-expiry-in-2017,No,"",2,0,1,This isn't about insurance premiums; it's about tax relief for research. ,"",""
+/government/publications/child-trust-fund-ctf-bulletin-82,No,"",1,1,1,The page information box hasn't autofilled except for the 'move from' and 'move to' sections. The content is a collection of Child Trust Fund bulletins and so isn't guidance for financial institutions.,nil page,""
+/government/news/record-year-for-uk-film-industry-tax-relief,Yes,"",3,0,3,"News item about tax relief, not about tax reform.
+Not about business tax reform; it's a news story about tax relief.","",""
+/guidance/arweiniad-a-thaflenni-gwybodaeth-cthem,Skip,"",3,3,0,In Welsh.,"In Welsh.
+duplicate",""
+/government/news/the-story-of-your-boxing-day-boxset-record-tax-relief-for-big-budget-tv,No,"",5,0,1,"This is about tax relief, not VAT MOSS.
+About tax relief, not VAT.","",""
+/government/statistics/announcements/tax-allowances-and-reliefs-in-force-cost-not-known--2,Yes,"",2,1,3,"A statistics release announcement. Not about income tax nor over/underpayments as far as I can tell.
+A statistics release announcement. Allowance and relief not the same as over/underpayments.","",Either the suggestion or income tax
+/government/statistics/announcements/venture-capital-trusts-number-of-trusts-and-amount-of-funds-raised,No,"",5,1,0,"I can see why it thought this but no
+A statistics release announcement. Sort of about valuation (funds raised?) but not about employment related securities.
+A statistics release announcement. Don't think this is about employment related securities nor asset valuation.
+No such taxon. ",duplicate,""
+/government/publications/beneficial-ownership-countries-that-have-pledged-to-exchange-information,Yes,Yes,0,0,3,"","","Maybe it belongs in both? It's a joint correspondence about sharing information internationally to make it easier to deal with tax evasion (current taxon is 'Tax evasion and avoidance') though it specifically mentions FATF, which implements as FATCA (as I understand it). I'm going to select 'yes' because a retag would at least be more granular."
+/government/publications/getting-basic-paye-tools-working-on-linux,No,Yes,3,0,0,"Ha, no
+Currently tagged to PAYE, where it belongs. Doesn't belong in 'life insurance policies'.","",""
+/government/publications/alcohol-and-tobacco-taxation-revenue,No,"",4,2,0,"It's not even business tax, there has to be somewhere to put it
+Not about insurance premium tax.
+Content about taxation revenue; not about insurance premium tax.","",""
+/government/statistics/announcements/capital-gains-tax-statistics--3,Yes,"",1,1,4,"",suggestion too low down the tree?,"A national statistics announcement. Capital gains tax involves tax on shares, as far as I know.
+Capital gains tax includes tax on shares, as I understand it."
+/guidance/animals-and-animal-food-notice-70115,Yes,Yes,0,0,3,"","",It probably belongs in both. Retag for greater granularity. This thing is about rules for VAT in a particular trade: animals and animal food. 
+/government/news/chancellor-waives-vat-on-jo-cox-charity-single,No,Yes,6,0,0,"Not about foreign entertainer tax rules; about a charity single.
+Not about foreign entertainers.
+- not suitable suggestion 
+duplicate ","",""
+/government/publications/fuel-duty-aqua-methanol-set-aside-for-use-or-used-as-fuel-in-any-engine-motor-or-machinery,No,Yes,3,0,0,"Unrelated to software development.
+Neither of those suggested taxons seem right. ","",""
+/government/news/government-to-donate-vat-on-x-factor-charity-single,No,"",5,1,0,"Not about child benefit (content does mention children's charities, which is probably what causes the issue).
+Not about child Benefit overpayments; does mention children's charities.
+duplicate","",""
+/government/news/press-briefing-morning-14-march-2014,No,Yes,6,0,0,"A press briefing. Not about oil and gas tax, specifically.
+A press release not about oil and gas tax.
+Weird suggestion
+duplicate","",""
+/government/publications/obsolete-miscellaneous-statements-of-practice,No,"",2,1,0,Not about software development for HMRC.,Neither taxon seems right,""
+/government/collections/gwybodaeth-gorfforaethol-ac-adroddiadau,Skip,"",1,2,0,"",It's in Welsh.,""
+/hmrc-internal-manuals/vat-womens-sanitary-products,No,"",2,0,1,"just VAT
+I think it belongs in the VAT branch, but the content doesn't mention MOSS.","",""
+/government/collections/gwe-rwydo-a-sgamiau,Skip,"",1,2,0,In Welsh.,"",""
+/government/publications/fuel-duty-fuel-additives-and-extenders,No,"",2,1,0,Not about software development for HMRC.,"",""
+/government/publications/child-trust-fund-ctf-bulletin-84,No,Yes,3,0,0,"Not about software development for HMRC.
+- Only one thing tagged to 'New to HMRC development'
+- The specialist topic it is tagged to is Tax on savings and investments (https://www.gov.uk/topic/personal-tax/savings-investment-tax) which is a sub of Personal Tax","",""
