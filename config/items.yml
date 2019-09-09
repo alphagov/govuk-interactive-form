@@ -6,6 +6,9 @@ default: &default
   depth_first_money_taxonomy_untagging:
     item_file: "depth_first_taxon_untag_items.csv"
     answers_file: "untag_taxon_answers.csv"
+  depth_first_money_taxonomy_retagging_1:
+    item_file: "depth_first_content_to_retag_Money_items_1.csv"
+    answers_file: "retag_taxon_answers.csv"
   depth_first_money_taxonomy_retagging:
     item_file: "depth_first_taxon_retag_items.csv"
     answers_file: "retag_taxon_answers.csv"
