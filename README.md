@@ -53,3 +53,17 @@ Please note, it isn't necessary to include the `data/` prefix. You can also copy
 
 * Now you're ready to go! The `name_for_my_questions` field in the yaml file will now be available as an endpoint, so in this example you'd go to `localhost:3000/name_for_my_questions`
 * As users answer the questions, it'll create Answer records with all the relevant information, you can query the answers for your questions with something like `Answer.where(collection: "example")` 
+
+## Reviewing answers
+
+When your users have all answered the questions you've posed, there are a couple of rake tasks to export all the data.
+
+Currently, the best way to do this is to download the postgres database from Heroku, import it into your local db and run the tasks. In the future, it may be easier for the tasks to upload the results to an AWS S3 bucket.
+
+For the time being, download a backup of the Heroku database; either through the web interface or by following the instructions on [this guide](https://devcenter.heroku.com/articles/heroku-postgres-import-export).
+
+Next, rename the file to 'database' and move it to the folder above your govuk-interactive-form repo folder (to prevent accidentally adding sensitive data to Git)
+
+Run `pg_restore -h localhost -d govuk_interactive_form_development ../database` to import the database into your local PG instance (you may need to add the database and set requisite user permissions first).
+
+Then you can run 'rake export_collection[name_for_my_questions_as_set_in_items.yml]' to export a raw csv of all the answers to your questions or 'rake export_decisions[name_for_my_questions_as_set_in_items.yml]' to get a tallied list of how many times each answer was given for each question. 
