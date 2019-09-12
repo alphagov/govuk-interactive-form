@@ -10,8 +10,14 @@ default: &default
     item_file: "depth_first_content_to_retag_Money_items_1.csv"
     answers_file: "retag_taxon_answers.csv"
   depth_first_money_taxonomy_retagging:
-    item_file: "depth_first_taxon_retag_items.csv"
+    item_file: "depth_first_content_to_retag_Money_items.csv"
     answers_file: "retag_taxon_answers.csv"
+  depth_first_money_taxonomy_retagging_100:
+    item_file: "depth_first_content_to_retag_Money100_features_items.csv"
+    answers_file: "retag_taxon_answers.csv"
+  logistic_regression_retag_dynamic_feature_count:
+    answers_file: "retag_taxon_answers.csv"
+    item_file: "depth_first_content_to_retag_Money_dynamic_feature_count_features_items.csv"
   untag_parenting:
     item_file: content_for_human_verification_to_untag_Parenting, childcare and children's services _items.csv
     answers_file: "untag_taxon_answers.csv"
