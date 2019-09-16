@@ -3,7 +3,6 @@ class ItemsController < ApplicationController
 
   def index
     session[:uuid] = SecureRandom.uuid
-    p Rails.application.config_for(:items).keys
     collection_data = Rails.application.config_for(:items)[params[:items]]
     if collection_data
       @items = CSV.parse(File.read("data/#{collection_data['item_file']}"), headers: true).map { |row| row }.shuffle
