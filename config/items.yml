@@ -3,9 +3,15 @@ default: &default
   example:
     item_file: "example_items.csv"
     answers_file: "example_answers.csv"
-  money:
+  money_retag:
     answers_file: "retag_taxon_answers.csv"
-    item_file: "depth_first_content_to_retag_Money_dynamic_feature_count_features_items.csv"
+    item_file: "money_retag.csv"
+  education_retag:
+    answers_file: "retag_taxon_answers.csv"
+    item_file: "education_retag.csv"
+  health_retag:
+    answers_file: "retag_taxon_answers.csv"
+    item_file: "health_retag.csv"
 
 
 development:
