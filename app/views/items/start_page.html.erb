@@ -1,0 +1,20 @@
+<div class="govuk-width-container">
+  <main class="govuk-main-wrapper">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-full">
+        <%= render "govuk_publishing_components/components/title", {
+            title: @item_data["start_page_title"].html_safe
+        } %>
+        <%= render "govuk_publishing_components/components/govspeak", {
+            content: @item_data["start_page_description"].html_safe
+        } %>
+        <%= render "govuk_publishing_components/components/button", {
+            text: "Start now",
+            href: items_url(items: @items_name),
+            start: true,
+            rel: "external"
+        } %>
+      </div>
+    </div>
+  </main>
+</div>

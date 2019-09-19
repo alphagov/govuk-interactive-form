@@ -1,0 +1,34 @@
+questions:
+  - id: "1"
+    question: "Do you like this?"
+    content: "Some content"
+    answers:
+      -
+        key: "yes"
+        text: "Yes"
+      -
+        key: "no"
+        text: "No"
+  - id: "question_2"
+    question: "How about this?"
+    content: "Some different content"
+    answers:
+      - key: "yes"
+        text: "Yes"
+      - key: "no"
+        text: "No"
+  - id: "question_about_search"
+    question: "Are these search results relevant?"
+    content: ""
+    iframe_url: "https://www.gov.uk/search/all?keywords=tax&order=relevance"
+    more_detail_prompt: "Which result(s) were not relevant?"
+    key_to_show_more_detail_prompt: "all irrelevant"
+    answers:
+      - key: "relevant"
+        text: "Relevant"
+      - key: "near"
+        text: "Reasonably relevant"
+      - key: "some irrelevant"
+        text: "Some irrelevant"
+      - key: "all irrelevant"
+        text: "All irrelevant"

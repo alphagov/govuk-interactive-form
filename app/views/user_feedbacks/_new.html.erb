@@ -1,0 +1,27 @@
+<div class="govuk-grid-row govuk-!-padding-top-8">
+  <%= render "govuk_publishing_components/components/details", {
+      title: "What did you think of this tool?"
+  } do %>
+    <%= form_with model: UserFeedback.new do |form| %>
+      <%= render "govuk_publishing_components/components/textarea", {
+          label: {
+              text: "Please fill in the form below to help us improve this tool so we can make it easier and simpler to retag topics."
+          },
+          name: "user_feedback[feedback]",
+          rows: 5,
+      } %>
+
+      <%= form.text_field :collection, value: @items_name, class: "hidden" %>
+
+      <div class="hidden" id="feedbackSuccessMessage">
+        <%= render "govuk_publishing_components/components/success_alert", {
+            message: "Thanks, your feedback has been recorded."
+        } %>
+      </div>
+
+      <%= render "govuk_publishing_components/components/button", {
+          text: "Submit"
+      } %>
+    <% end %>
+  <% end %>
+</div>

@@ -1,0 +1,50 @@
+
+.item-content {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+.iframe {
+  width: 100%;
+  height: 50vh;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.float-right {
+  float: right;
+}
+
+a,p,h1,h2,h3,h4,h5,h6 {
+  font-family: "GDS Transport", Arial, sans-serif;
+}
+
+.tab {
+  margin-left: 30px;
+}
+
+.inline {
+  display: inline;
+}
+
+.fixed-bottom {
+  position: fixed;
+  bottom: 0px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+  width: 100%;
+  background: white;
+}
+
+textarea {
+  resize: none !important;
+}
