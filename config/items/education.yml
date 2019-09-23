@@ -1,0 +1,610 @@
+questions:
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/school-curriculum
+    text: <a href='https://www.gov.uk/education/school-curriculum' target='_blank'>Education,
+      training and skills > School curriculum</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/successful-workshop-on-assessment-of-jelly-mini-cups'
+    target='_blank'>Successful workshop on assessment of jelly mini-cups</a></h2><p>The
+    Government Chemist team run a very well received workshop providing practical
+    knowledge for assessing the conformity of confectionery items known as jelly mini-cups</p>
+  id: /government/news/successful-workshop-on-assessment-of-jelly-mini-cups
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/skills-dialogue-event-in-mexico'
+    target='_blank'>Skills Dialogue event in Mexico</a></h2><p>Skills Dialogue event
+    held in Mexico City on 7 March 2019 to gather stakeholder feedback.</p>
+  id: /government/news/skills-dialogue-event-in-mexico
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/inspections-and-performance-of-education-providers
+    text: <a href='https://www.gov.uk/education/inspections-and-performance-of-education-providers'
+      target='_blank'>Education, training and skills > Inspections and performance
+      of education providers</a>
+  - key: /education/inspection-and-performance-of-further-education-providers
+    text: <a href='https://www.gov.uk/education/inspection-and-performance-of-further-education-providers'
+      target='_blank'>Education, training and skills > Inspections and performance
+      of education providers > Inspection and performance of further education providers</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/administered-status-and-inadequate-inspection-easton-and-otley-college''
+    target=''_blank''>Administered status and inadequate inspection: Easton and Otley
+    College</a></h2><p>Administered status and inadequate inspection issued to Easton
+    and Otley College by the Education and Skills Funding Agency. </p>'
+  id: /government/publications/administered-status-and-inadequate-inspection-easton-and-otley-college
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/school-buildings-and-land
+    text: <a href='https://www.gov.uk/education/school-buildings-and-land' target='_blank'>Education,
+      training and skills > Running and managing a school > School buildings and land</a>
+  - key: /education/further-and-higher-education-courses-and-qualifications
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-courses-and-qualifications'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training > Further and higher education courses and qualifications</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/efa-contractors-framework-invitation-to-tender-itt-for-local-competition''
+    target=''_blank''>EFA contractors framework: invitation to tender (ITT) for local
+    competition</a></h2><p>EFA contractors framework preparation and procurement documents
+    and templates for invitation to tender (ITT) stage.</p>'
+  id: /government/publications/efa-contractors-framework-invitation-to-tender-itt-for-local-competition
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/school-curriculum
+    text: <a href='https://www.gov.uk/education/school-curriculum' target='_blank'>Education,
+      training and skills > School curriculum</a>
+  - key: /education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses
+    text: <a href='https://www.gov.uk/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses'
+      target='_blank'>Education, training and skills > School curriculum > Secondary
+      curriculum, key stage 3 and key stage 4 (GCSEs)</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/relationship-difficulties-and-help-seeking-behaviour'
+    target='_blank'>Relationship difficulties and help-seeking behaviour</a></h2><p>This
+    report outlines findings from secondary analysis of a dataset from interviews
+    with individuals who were in long-term relationships.</p>
+  id: /government/publications/relationship-difficulties-and-help-seeking-behaviour
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/school-curriculum
+    text: <a href='https://www.gov.uk/education/school-curriculum' target='_blank'>Education,
+      training and skills > School curriculum</a>
+  - key: /education/primary-curriculum-key-stage-2
+    text: <a href='https://www.gov.uk/education/primary-curriculum-key-stage-2' target='_blank'>Education,
+      training and skills > School curriculum > Primary curriculum, key stage 2</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/guidance/nca-tools-managing-access-and-troubleshooting''
+    target=''_blank''>NCA tools: managing access and troubleshooting</a></h2><p>Information
+    for schools and local authorities about managing NCA tools passwords and accounts
+    for the 2018 to 2019 test cycle.</p>'
+  id: /guidance/nca-tools-managing-access-and-troubleshooting
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/school-curriculum
+    text: <a href='https://www.gov.uk/education/school-curriculum' target='_blank'>Education,
+      training and skills > School curriculum</a>
+  - key: /education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses
+    text: <a href='https://www.gov.uk/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses'
+      target='_blank'>Education, training and skills > School curriculum > Secondary
+      curriculum, key stage 3 and key stage 4 (GCSEs)</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/speeches/michael-gove-to-cambridge-university'
+    target='_blank'>Michael Gove to Cambridge University</a></h2><p>The Secretary
+    of State's speech to Cambridge University on a liberal education.</p>
+  id: /government/speeches/michael-gove-to-cambridge-university
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/school-curriculum
+    text: <a href='https://www.gov.uk/education/school-curriculum' target='_blank'>Education,
+      training and skills > School curriculum</a>
+  - key: /education/teacher-training-and-professional-development
+    text: <a href='https://www.gov.uk/education/teacher-training-and-professional-development'
+      target='_blank'>Education, training and skills > Teaching and leadership > Teacher
+      training and professional development</a>
+  - key: /education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses
+    text: <a href='https://www.gov.uk/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses'
+      target='_blank'>Education, training and skills > School curriculum > Secondary
+      curriculum, key stage 3 and key stage 4 (GCSEs)</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/speeches/michael-gove-speaks-to-the-royal-society-on-maths-and-science'
+    target='_blank'>Michael Gove speaks to the Royal Society on maths and science</a></h2><p>Education
+    Secretary Michael Gove speaks to the Royal Society.</p>
+  id: /government/speeches/michael-gove-speaks-to-the-royal-society-on-maths-and-science
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/inspections-and-performance-of-education-providers
+    text: <a href='https://www.gov.uk/education/inspections-and-performance-of-education-providers'
+      target='_blank'>Education, training and skills > Inspections and performance
+      of education providers</a>
+  - key: /education/inspection-and-performance-of-schools
+    text: <a href='https://www.gov.uk/education/inspection-and-performance-of-schools'
+      target='_blank'>Education, training and skills > Inspections and performance
+      of education providers > Inspection and performance of schools</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/warning-notice-to-the-marine-academy-plymouth'
+    target='_blank'>Warning notice to the Marine Academy Plymouth</a></h2><p>Termination
+    warning notice issued to the members and directors of Marine Academy Plymouth
+    by the Department for Education.</p>
+  id: /government/publications/warning-notice-to-the-marine-academy-plymouth
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/apprenticeships-traineeships-and-internships
+    text: <a href='https://www.gov.uk/education/apprenticeships-traineeships-and-internships'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training > Apprenticeships, traineeships and internships</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/speeches/ofsted-further-education-and-skills-annual-lecture-2013-seizing-the-moment''
+    target=''_blank''>Ofsted further education and skills annual lecture 2013: seizing
+    the moment</a></h2><p>Matthew Coffey highlighted the state of prison education
+    in the Ofsted further education and skills annual lecture 2013.</p>'
+  id: /government/speeches/ofsted-further-education-and-skills-annual-lecture-2013-seizing-the-moment
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/esfa-update-february-2018''
+    target=''_blank''>ESFA update: February 2018</a></h2><p>A weekly round-up of business-critical
+    information to ESFA-funded colleges, other training organisations and direct grant
+    employers.</p>'
+  id: /government/publications/esfa-update-february-2018
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/apprenticeships-traineeships-and-internships
+    text: <a href='https://www.gov.uk/education/apprenticeships-traineeships-and-internships'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training > Apprenticeships, traineeships and internships</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/team-uk-champions-celebrate-their-success'\
+    \ target='_blank'>Team UK champions celebrate their success</a></h2><p>Team UK\
+    \ on their return from WorldSkills competition in S\xE3o Paulo 2015.</p>"
+  id: /government/news/team-uk-champions-celebrate-their-success
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/sfa-update-march-2017''
+    target=''_blank''>SFA update: March 2017</a></h2><p>A weekly round-up of business-critical
+    information to SFA-funded colleges, other training organisations and direct grant
+    employers.</p>'
+  id: /government/publications/sfa-update-march-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/esfa-update-july-2017''
+    target=''_blank''>ESFA update: July 2017</a></h2><p>A weekly round-up of business-critical
+    information to ESFA-funded colleges, other training organisations and direct grant
+    employers.</p>'
+  id: /government/publications/esfa-update-july-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-and-higher-education-courses-and-qualifications
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-courses-and-qualifications'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training > Further and higher education courses and qualifications</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/universities-told-to-stamp-out-antisemitism-on-campus'
+    target='_blank'>Universities told to stamp out antisemitism on campus</a></h2><p>The
+    Universities Minister is calling on all institutions to accept the IHRA definition
+    of antisemitism and step up to tackle religious-based hate.</p>
+  id: /government/news/universities-told-to-stamp-out-antisemitism-on-campus
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/sfa-locations''
+    target=''_blank''>SFA: locations</a></h2><p>The Skills Funding Agency has offices
+    and locations throughout the country.</p>'
+  id: /government/publications/sfa-locations
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/publications/skills-funding-agency-business-update'\
+    \ target='_blank'>ESFA: business update</a></h2><p>Business update is the Education\
+    \ and Skills Funding Agency\u2019s monthly round-up of business-critical information\
+    \ and news for businesses.</p>"
+  id: /government/publications/skills-funding-agency-business-update
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/esfa-update-april-2017''
+    target=''_blank''>ESFA update: April 2017</a></h2><p>A weekly round-up of business-critical
+    information to ESFA-funded colleges, other training organisations and direct grant
+    employers.</p>'
+  id: /government/publications/esfa-update-april-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/international-women-in-engineering-day'
+    target='_blank'>International Women in Engineering Day</a></h2><p>Sunday 23 June
+    marked International Women in Engineering Day 2019 (INWED19).</p>
+  id: /government/news/international-women-in-engineering-day
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/inspections-and-performance-of-education-providers
+    text: <a href='https://www.gov.uk/education/inspections-and-performance-of-education-providers'
+      target='_blank'>Education, training and skills > Inspections and performance
+      of education providers</a>
+  - key: /education/inspection-and-performance-of-schools
+    text: <a href='https://www.gov.uk/education/inspection-and-performance-of-schools'
+      target='_blank'>Education, training and skills > Inspections and performance
+      of education providers > Inspection and performance of schools</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/lord-nash-and-matthew-hancock-write-to-barnfield-federation'
+    target='_blank'>Lord Nash and Matthew Hancock write to Barnfield Federation</a></h2><p>A
+    letter from Lord Nash and Matthew Hancock to the Barnfield Federation.</p>
+  id: /government/publications/lord-nash-and-matthew-hancock-write-to-barnfield-federation
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/esfa-update-january-2018''
+    target=''_blank''>ESFA update: January 2018</a></h2><p>A weekly round-up of business-critical
+    information to ESFA-funded colleges, other training organisations and direct grant
+    employers.</p>'
+  id: /government/publications/esfa-update-january-2018
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-education-funding
+    text: <a href='https://www.gov.uk/education/further-education-funding' target='_blank'>Education,
+      training and skills > Further and higher education, skills and vocational training
+      > Further education funding</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/esfa-update-november-2017''
+    target=''_blank''>ESFA update: November 2017</a></h2><p>A weekly round-up of business-critical
+    information to ESFA-funded colleges, other training organisations and direct grant
+    employers.</p>'
+  id: /government/publications/esfa-update-november-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/inspections-and-performance-of-education-providers
+    text: <a href='https://www.gov.uk/education/inspections-and-performance-of-education-providers'
+      target='_blank'>Education, training and skills > Inspections and performance
+      of education providers</a>
+  - key: /education/school-performance-tables-and-ofsted-reports
+    text: <a href='https://www.gov.uk/education/school-performance-tables-and-ofsted-reports'
+      target='_blank'>Education, training and skills > Inspection and performance
+      of schools > School performance tables and Ofsted reports</a>
+  - key: /education/inspection-and-performance-of-schools
+    text: <a href='https://www.gov.uk/education/inspection-and-performance-of-schools'
+      target='_blank'>Education, training and skills > Inspections and performance
+      of education providers > Inspection and performance of schools</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/ofsted-inspections-lord-nash-writes-to-baroness-jones''
+    target=''_blank''>Ofsted inspections: Lord Nash writes to Baroness Jones</a></h2><p>A
+    letter from Lord Nash to Baroness Jones about Ofsted inspections.</p>'
+  id: /government/publications/ofsted-inspections-lord-nash-writes-to-baroness-jones
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-and-higher-education-courses-and-qualifications
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-courses-and-qualifications'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training > Further and higher education courses and qualifications</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/check-a-university-is-officially-recognised'
+    target='_blank'>Check if a university or college is officially recognised</a></h2><p>Recognised
+    bodies, listed bodies, recognised universities, accredited higher learning institutions,
+    bogus degrees</p>
+  id: /check-a-university-is-officially-recognised
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-and-higher-education-courses-and-qualifications
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-courses-and-qualifications'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training > Further and higher education courses and qualifications</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/speeches/free-speech-in-the-liberal-university'
+    target='_blank'>Free speech in the liberal university</a></h2><p>A speech by Jo
+    Johnson at the Limmud Conference, Birmingham, 26 December 2017</p>
+  id: /government/speeches/free-speech-in-the-liberal-university
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/further-and-higher-education-skills-and-vocational-training
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training</a>
+  - key: /education/further-and-higher-education-courses-and-qualifications
+    text: <a href='https://www.gov.uk/education/further-and-higher-education-courses-and-qualifications'
+      target='_blank'>Education, training and skills > Further and higher education,
+      skills and vocational training > Further and higher education courses and qualifications</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/201920-chevening' target='_blank'>2019/20\u5E74\
+    \u5EA6Chevening\u82F1\u570B\u653F\u5E9C\u734E\u5B78\u91D1\u5DF2\u6B63\u5F0F\u5C0D\
+    \u5916\u958B\u653E\u7533\u8ACB</a></h2><p>\u82F1\u570B\u5728\u53F0\u8FA6\u4E8B\
+    \u8655\u6B63\u5F0F\u5BA3\u4F482019/20\u5E74\u5EA6 Chevening \u82F1\u570B\u653F\
+    \u5E9C\u734E\u5B78\u91D1\u5373\u65E5\u8D77\u958B\u653E\u7533\u8ACB\uFF0C\u671F\
+    \u9650\u81F311\u67086\u65E5\u70BA\u6B62\u3002</p>"
+  id: /government/news/201920-chevening
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/running-and-managing-a-school
+    text: <a href='https://www.gov.uk/education/running-and-managing-a-school' target='_blank'>Education,
+      training and skills > Running and managing a school</a>
+  - key: /education/school-admissions
+    text: <a href='https://www.gov.uk/education/school-admissions' target='_blank'>Education,
+      training and skills > Running and managing a school > School admissions</a>
+  - key: /education/setting-up-or-changing-the-status-of-a-school
+    text: <a href='https://www.gov.uk/education/setting-up-or-changing-the-status-of-a-school'
+      target='_blank'>Education, training and skills > Running and managing a school
+      > Setting up or changing the status of a school</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/admission-appeals-for-maintained-primary-and-secondary-schools-in-england-academic-year-2009-to-2010''
+    target=''_blank''>Admissions appeals in England: academic year 2009 to 2010</a></h2><p>Primary
+    and secondary school appeals lodged by parents against non-admission of their
+    children to their preferred school.</p>'
+  id: /government/statistics/admission-appeals-for-maintained-primary-and-secondary-schools-in-england-academic-year-2009-to-2010
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/running-and-managing-a-school
+    text: <a href='https://www.gov.uk/education/running-and-managing-a-school' target='_blank'>Education,
+      training and skills > Running and managing a school</a>
+  - key: /education/school-admissions
+    text: <a href='https://www.gov.uk/education/school-admissions' target='_blank'>Education,
+      training and skills > Running and managing a school > School admissions</a>
+  - key: /education/setting-up-or-changing-the-status-of-a-school
+    text: <a href='https://www.gov.uk/education/setting-up-or-changing-the-status-of-a-school'
+      target='_blank'>Education, training and skills > Running and managing a school
+      > Setting up or changing the status of a school</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/admissions-appeals-in-england-academic-year-2014-to-2015''
+    target=''_blank''>Admissions appeals in England: academic year 2014 to 2015</a></h2><p>Maintained
+    and academy primary and secondary school admission appeals relating to the start
+    of the 2014 to 2015 academic year.</p>'
+  id: /government/statistics/admissions-appeals-in-england-academic-year-2014-to-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /education
+    text: <a href='https://www.gov.uk/education' target='_blank'>Education, training
+      and skills</a>
+  - key: /education/running-and-managing-a-school
+    text: <a href='https://www.gov.uk/education/running-and-managing-a-school' target='_blank'>Education,
+      training and skills > Running and managing a school</a>
+  - key: /education/school-admissions
+    text: <a href='https://www.gov.uk/education/school-admissions' target='_blank'>Education,
+      training and skills > Running and managing a school > School admissions</a>
+  - key: /education/setting-up-or-changing-the-status-of-a-school
+    text: <a href='https://www.gov.uk/education/setting-up-or-changing-the-status-of-a-school'
+      target='_blank'>Education, training and skills > Running and managing a school
+      > Setting up or changing the status of a school</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/admission-appeals-in-maintained-primary-and-secondary-schools-in-england-academic-year-2010-to-2011''
+    target=''_blank''>Admissions appeals in England: academic year 2010 to 2011</a></h2><p>Primary
+    and secondary school appeals lodged by parents against non-admission of their
+    children to their preferred school.</p>'
+  id: /government/statistics/admission-appeals-in-maintained-primary-and-secondary-schools-in-england-academic-year-2010-to-2011
+  question: Which topic should the following page be tagged to?
+  url: ''

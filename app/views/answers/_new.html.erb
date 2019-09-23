@@ -1,0 +1,38 @@
+<%= form_with model: Answer.new do |form| %>
+  <div class="radio-container" data-key-to-show-more-detail-prompt="<%= item['key_to_show_more_detail_prompt'] %>">
+    <%= render "govuk_publishing_components/components/radio", {
+        name: "answer[answer]",
+        items: answers.each_with_object([]) { |item, items| items << { value: item['key'], text: item['text'].html_safe } }
+    } %>
+  </div>
+  <%= form.text_field :question, class: "hidden", value: item['question'] %>
+  <%= form.text_field :item_id, class: "hidden", value: item['id'] %>
+  <%= form.text_field :collection, value: @items_name, class: "hidden" %>
+  <%= text_field_tag :index, index, class: "hidden" %>
+
+  <div class="hidden more-detail">
+    <%= render "govuk_publishing_components/components/textarea", {
+      label: {
+          text: "Optionally, provide more detail on your decision"
+      },
+      name: "answer[explanation]",
+      rows: 2,
+    } %>
+  </div>
+
+  <div class="select-answer-warning hidden">
+    <%= render "govuk_publishing_components/components/error_message", {
+        text: "Please select an answer, or click skip below if you're not sure."
+    } %>
+  </div>
+
+  <div class="submit-answer-button">
+    <%= render "govuk_publishing_components/components/button", {
+      text: "Submit",
+      class: "submit-answer-button"
+    } %>
+  </div>
+<% end %>
+<div class="govuk-!-padding-top-3">
+  <a href="#" class="skip">Skip</a>
+</div>

@@ -1,61 +1,49 @@
-$(document).on("click", "#startButtonContainer", function(){
-  tryStartSwiping();
+$( document ).ready(function() {
+  indexes = [];
+  $( ".item" ).each(function() {
+    indexes.push(parseInt($(this).data('index'), 10));
+  });
+  window.itemIndex = Math.min.apply(null, indexes);
+  currentItem().show();
 });
 
-$(document).on("keypress", "input[name='name']", function(e){
-  if (e.which == 13) {
-    tryStartSwiping();
-    return false;
-  }
-});
-
-function tryStartSwiping(){
-  var name = $("input[name='name']").val();
-  if(String(name).length > 0){
-    $("#nameContainer").hide();
-    $("#itemsContainer").show();
-    $("#answer_user_name").val(name);
-
-    var height = $("#fixedBottom").outerHeight();
-    $(".content").css('paddingBottom', height + 'px');
+$(document).on("change", ".radio-container input", function(){
+  var key = $(this).val();
+  var keyToShowMoreDetail = $(this).parents(".radio-container").data("key-to-show-more-detail-prompt");
+  if($(this).parents(".radio-container").data("key-to-show-more-detail-prompt") == key){
+    currentItem().find(".more-detail").show();
+    $("[name='answer[explanation]']").val("");
   } else {
-    alert("Please enter your name");
+    currentItem().find(".more-detail").hide();
   }
-}
+  currentItem().find(".select-answer-warning").hide();
+});
 
-window.itemIndex = 0;
-$(document).on("click", ".answer-buttons button", function(){
-  var $currentItem = $(".item[data-index='" + itemIndex + "']");
-  storeAnswer($currentItem, $(this));
-  removeCurrentItem($(this), $currentItem);
+$(document).on("click", ".submit-answer-button button", function(e){
+  if(currentItem().find("input[name='answer[answer]']:checked").length){
+    next();
+  } else {
+    currentItem().find(".select-answer-warning").show();
+  }
+});
+
+$(document).on("click", ".skip", function(e){
+  e.preventDefault();
+  $form = currentItem().find("form");
+  // Uncheck anything they have selected
+  $form.find("input[name='answer[answer]']").prop('checked',false);
+  $form.submit();
+  next();
+  return false;
+});
+
+function next(){
+  currentItem().fadeOut();
   showNextItem();
-});
-
-function storeAnswer($item, $answer){
-  $("#answer_question").val($item.find(".question-container").find("h2").text());
-  $("#answer_answer").val($answer.data("key"));
-  $("#answer_item_id").val($item.data("id"));
-  $("#answerForm").submit();
-  $("[name='answer[explanation]']").val("");
 }
 
-function removeCurrentItem($answerButton, $currentItem){
-  var swipeDirection = $answerButton.data("swipe-direction");
-  if(swipeDirection == "left"){
-    swipeLeft($currentItem);
-  } else if(swipeDirection == "right") {
-    swipeRight($currentItem);
-  } else {
-    $currentItem.fadeOut();
-  }
-}
-
-function swipeRight($element){
-  $element.addClass('rotate-left').delay(700).fadeOut(0.6);
-}
-
-function swipeLeft($element) {
-  $element.addClass('rotate-right').delay(700).fadeOut(0.6);
+function currentItem(){
+  return $(".item[data-index='" + itemIndex + "']");
 }
 
 function showNextItem(){
@@ -68,11 +56,3 @@ function showNextItem(){
     $("#finishedContainer").show();
   }
 }
-
-$(document).on("click", "#quitButtonContainer", function(){
-  var confirmation = confirm("Are you sure you want to quit?");
-  if (confirmation == true) {
-    $("#itemsContainer").hide();
-    $("#finishedContainer").show();
-  }
-});

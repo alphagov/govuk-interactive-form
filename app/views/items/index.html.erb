@@ -1,75 +1,10 @@
-<div class="govuk-width-container" id="nameContainer">
+<div class="govuk-width-container">
   <main class="govuk-main-wrapper">
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-full">
-        <%= render "govuk_publishing_components/components/input", {
-            label: {
-                text: "Before we get started, what's your name?"
-            },
-            name: "name"
-        } %>
-
-      <div class="govuk-grid-column-full" id="startButtonContainer">
-        <%= render "govuk_publishing_components/components/button", {
-            text: "Start now",
-            href: "#",
-            start: true
-        } %>
-      </div>
-    </div>
-  </main>
-</div>
-
-
-<div class="govuk-width-container hidden" id="itemsContainer">
-  <main class="govuk-main-wrapper">
-    <div class="govuk-grid-row">
-      <div class="govuk-grid-column-full">
-        <% @items.each_with_index do |item, index| %>
-          <%= render "show", item: item, item_count: @item_count, index: index %>
+        <% @items[@index..@items.length].each_with_index do |item, index| %>
+          <%= render "show", item: item, item_count: @items.count, index: index + @index %>
         <% end %>
-
-        <div class="govuk-width-container" id="fixedBottom">
-          <div class="govuk-grid-row">
-            <div class="govuk-grid-column-full">
-
-              <%= form_with model: Answer.new, html: { id: "answerForm" } do |form| %>
-                <%= form.text_field :user_name, class: "hidden" %>
-                <%= form.text_field :question, class: "hidden" %>
-                <%= form.text_field :answer, class: "hidden" %>
-                <%= form.text_field :item_id, class: "hidden" %>
-                <%= form.text_field :collection, value: @collection, class: "hidden" %>
-                <%= render "govuk_publishing_components/components/textarea", {
-                    label: {
-                        text: "Optionally, provide more detail on your decision"
-                    },
-                    name: "answer[explanation]",
-                    rows: 2
-                } %>
-              <% end %>
-              <div class="answer-buttons-container">
-                <span class="answer-buttons">
-                  <% @answers.each do |button| %>
-                    <%= render "govuk_publishing_components/components/button", {
-                        text: button["text"],
-                        secondary: true,
-                        data_attributes: {
-                            key: button["text"],
-                            swipe_direction: button["swipe_direction"],
-                        }
-                    } %>
-                  <% end %>
-                </span>
-                <span class="float-right" id="quitButtonContainer">
-                  <%= render "govuk_publishing_components/components/button", {
-                      text: "Quit",
-                      secondary_quiet: true,
-                  } %>
-                </span>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </main>
@@ -77,13 +12,13 @@
 
 <div class="govuk-width-container hidden" id="finishedContainer">
   <main class="govuk-main-wrapper">
-    <div class="govuk-grid-row text-center">
-      <span style='font-size:150px;'>&#128588;</span>
-    </div>
-    <div class="govuk-grid-row text-center">
-      <%= render "govuk_publishing_components/components/heading", {
-          text: "You're done! Thanks so much for your time."
+    <div class="govuk-grid-row">
+      <%= render "govuk_publishing_components/components/panel", {
+          title: "Questions completed",
+          description: "Thanks so much for your time.".html_safe
       } %>
     </div>
+
+    <%= render "user_feedbacks/new" %>
   </main>
 </div>

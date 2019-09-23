@@ -1,17 +1,18 @@
 ---
 default: &default
   example:
-    item_file: "example_items.csv"
-    answers_file: "example_answers.csv"
-  money_retag:
-    answers_file: "retag_taxon_answers.csv"
-    item_file: "money_retag.csv"
-  education_retag:
-    answers_file: "retag_taxon_answers.csv"
-    item_file: "education_retag.csv"
-  health_retag:
-    answers_file: "retag_taxon_answers.csv"
-    item_file: "health_retag.csv"
+    start_page_title: "Help us improve our content"
+    start_page_description: "<p>We're trying to improve our content, you can help us do this</p><p>We want to ask you some simple questions. It will take around 15 minutes, you can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+  money:
+    start_page_title: "Help us improve our topic tagging"
+    start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+  education:
+    start_page_title: "Help us improve our topic tagging"
+    start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+  health:
+    start_page_title: "Help us improve our topic tagging"
+    start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+
 
 
 development:

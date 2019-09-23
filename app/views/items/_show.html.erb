@@ -1,13 +1,19 @@
 <div class="item" data-id="<%= item["id"] %>" data-index="<%= index %>" style="<%= if index > 0 then "display: none" end %>">
-  <div class="question-container">
-    <%= render "govuk_publishing_components/components/heading", {
-      text: "#{index + 1}/#{item_count}: #{item["question"]}",
-    } %>
-  </div>
-  <div class="content">
+  <%= render "govuk_publishing_components/components/heading", {
+    text: item["question"],
+  } %>
+  <div class="item-content">
     <%= item["content"].to_s.html_safe %>
-    <% if item["url"].present? %>
-      <iframe src="<%= item["url"] %>" class="iframe"></iframe>
+    <% if item["iframe_url"].present? %>
+      <iframe src="<%= item["iframe_url"] %>" class="iframe"></iframe>
     <% end %>
   </div>
+  <div class="govuk-width-container fixed-bottom">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-full">
+        <%= render "answers/new", index: index, item: item, answers: item["answers"] %>
+      </div>
+    </div>
+  </div>
 </div>
+

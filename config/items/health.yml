@@ -1,0 +1,1752 @@
+questions:
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/celebrities-put-the-stop-into-stoptober'
+    target='_blank'>Celebrities put the stop into Stoptober</a></h2><p>Stoptober,
+    a new stop smoking campaign officially kicks off today with support from celebrities
+    nationwide.</p>
+  id: /government/news/celebrities-put-the-stop-into-stoptober
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/publications/department-of-health-gender-pay-gap-report-and-data-2017'\
+    \ target='_blank'>Department of Health: gender pay gap report and data 2017</a></h2><p>Data\
+    \ on the difference in employees\u2019 average earnings from April 2016 to March\
+    \ 2017.</p>"
+  id: /government/publications/department-of-health-gender-pay-gap-report-and-data-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/reyrolle-rok-and-rokss-ring-main-units-alert'\
+    \ target='_blank'>Reyrolle ROK and ROKSS ring main units alert</a></h2><p>An incident\
+    \ occurred to a Reyrolle ROKSS 11KV ring main unit of the type manufactured up\
+    \ to and including 1982.\_ Scottish Power issued a dangerous incident notice as\
+    \ well as a suspension of operation practice in November.</p>"
+  id: /government/news/reyrolle-rok-and-rokss-ring-main-units-alert
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/cold-weather-plan-alert-level-lowered'\
+    \ target='_blank'>Cold weather plan: alert level lowered</a></h2><p>The forecast\
+    \ from the Met Office has changed.\n\nThe Cold Weather Plan alert issued on 8\
+    \ December, has therefore now reverted to Level 1 across\u2026</p>"
+  id: /government/news/cold-weather-plan-alert-level-lowered
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/female-genital-mutilation-experimental-statistics-october-2014''
+    target=''_blank''>Female genital mutilation, experimental statistics: October
+    2014</a></h2><p>Official statistics are produced impartially and free from any
+    political influence.</p>'
+  id: /government/statistics/female-genital-mutilation-experimental-statistics-october-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/cold-weather-plan-alert-lowered-to-level-1'\
+    \ target='_blank'>Cold weather plan: alert lowered to level 1</a></h2><p>Following\
+    \ a Level 3 alert issued on 13 January 2013, temperatures have now fallen across\
+    \ England and the Cold Weather Plan alert indicator has\u2026</p>"
+  id: /government/news/cold-weather-plan-alert-lowered-to-level-1
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/ordinary-residence-disputes-milton-keynes-v-scottish-ministers''
+    target=''_blank''>Ordinary residence disputes: Milton Keynes v Scottish Ministers</a></h2><p>Decision
+    of cross-border disputes and court of session judgement on the matter of Milton
+    Keynes v Scottish Ministers.</p>'
+  id: /government/publications/ordinary-residence-disputes-milton-keynes-v-scottish-ministers
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/don-t-look-straight-at-the-sun-on-6-june'\
+    \ target='_blank'>Don\u2019t look straight at the sun on 6 June</a></h2><p>Find\
+    \ a safe way to watch the Transit of Venus. People could permanently damage their\
+    \ eyesight and even risk blindness if they look directly \u2026</p>"
+  id: /government/news/don-t-look-straight-at-the-sun-on-6-june
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/cold-weather-plan-reversion-to-level-1-alert--2'\
+    \ target='_blank'>Cold weather plan: reversion to level 1 alert</a></h2><p>Further\
+    \ to the level alert 2 issued on 12 January, the levels across England have now\
+    \ reverted to Level 1\n\nGuidance on Cold Weather Alert threshhold\u2026</p>"
+  id: /government/news/cold-weather-plan-reversion-to-level-1-alert--2
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/national-patient-safety-agency-amendment-no-2-directions'
+    target='_blank'>National Patient Safety Agency (Amendment No.2) Directions</a></h2><p>Amendments
+    to Direction 2 of the Principal Directions.</p>
+  id: /government/news/national-patient-safety-agency-amendment-no-2-directions
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/ordinary-residence-anonymised-determinations-2015''
+    target=''_blank''>Ordinary residence: anonymised determinations 2015</a></h2><p>Anonymised
+    ordinary residence determinations for 2015. </p>'
+  id: /government/publications/ordinary-residence-anonymised-determinations-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/speeches/world-suicide-prevention-day'
+    target='_blank'>World Suicide Prevention Day</a></h2><p>Professor Louis Appleby
+    talks about the stigma of suicide, particularly among the young men who are most
+    at risk. </p>
+  id: /government/speeches/world-suicide-prevention-day
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/ordinary-residence-anonymised-determinations-from-2006-to-2011'
+    target='_blank'>Ordinary residence anonymised determinations from 2006 to 2011</a></h2><p>Ordinary
+    residence anonymised determinations from 2006 to 2011.</p>
+  id: /government/publications/ordinary-residence-anonymised-determinations-from-2006-to-2011
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/interest-on-deferred-payment-agreements-july-to-december-2015''
+    target=''_blank''>Interest on deferred payment agreements: July to December 2015</a></h2><p>Circular
+    LAC (DH)(2015)3 sets out the updated interest rate for deferred payment agreements
+    (DPAs) for 1 July 2015 to 31 December 2015. </p>'
+  id: /government/publications/interest-on-deferred-payment-agreements-july-to-december-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/child-support-agency-quarterly-summary-of-statistics-june-2014'
+    target='_blank'>Child Support Agency Quarterly Summary of Statistics - June 2014</a></h2><p>Statistics
+    from the Child Support Agency.</p>
+  id: /government/statistics/announcements/child-support-agency-quarterly-summary-of-statistics-june-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/high-commissioner-visits-victims-of-attack'
+    target='_blank'>High Commissioner visits victims of attack</a></h2><p>Dr. Christian
+    Turner visited victims of the Westgate atrocity </p>
+  id: /government/news/high-commissioner-visits-victims-of-attack
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/ordinary-residence-anonymised-determinations-2012''
+    target=''_blank''>Ordinary residence: anonymised determinations 2012</a></h2><p>Ordinary
+    residence determinations from 2012.</p>'
+  id: /government/publications/ordinary-residence-anonymised-determinations-2012
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/news/nelson-mandela-tribute-nick-clegg--2''
+    target=''_blank''>Nelson Mandela tribute: Nick Clegg</a></h2><p>Nick Clegg has
+    paid his respects to Nelson Mandela by signing the book of condolence at South
+    Africa House.</p>'
+  id: /government/news/nelson-mandela-tribute-nick-clegg--2
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/consular-briefing-for-british-nationals-in-ukraine-3'
+    target='_blank'>Consular briefing for British nationals in Ukraine</a></h2><p>British
+    nationals are invited to the British Embassy Kyiv</p>
+  id: /government/news/consular-briefing-for-british-nationals-in-ukraine-3
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/announcements/bed-availability-and-occupancy-quarter-ending-september-2014''
+    target=''_blank''>Bed availability and occupancy: quarter ending September 2014</a></h2><p>Bed
+    availability and bed occupancy.</p>'
+  id: /government/statistics/announcements/bed-availability-and-occupancy-quarter-ending-september-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-15th-february-2015'
+    target='_blank'>Winter Situation Report, week ending 15th February 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
+  id: /government/statistics/announcements/winter-situation-report-week-ending-15th-february-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/collections/irp-learning-from-reviews''
+    target=''_blank''>IRP: Learning from reviews</a></h2><p>The IRP''s ''Learning
+    from reviews'' publications bring together lessons from the panel''s full reviews
+    and initial assessments.</p>'
+  id: /government/collections/irp-learning-from-reviews
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/smoking-statistics-in-england-2014--2''
+    target=''_blank''>Smoking statistics in England: 2014</a></h2><p>Presents a broad
+    picture of health issues related to smoking, smoking habits, behaviour and attitudes,
+    smoking related ill-health and mortality and smoking related costs.</p>'
+  id: /government/statistics/smoking-statistics-in-england-2014--2
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/statistics/announcements/episode-based-acute-activity-operations-201314'\
+    \ target='_blank'>Episode Based Acute Activity - Operations 2013/14</a></h2><p>The\
+    \ total operations tables provide an aggregate summary of codes from all procedure/intervention\
+    \ fields.  \r\nThe codes are grouped together into chapters and blocks in line\
+    \ with the chapter summary of OPCS 4.4.  \r\nThe codes in each chapter/block are\
+    \ presented at a 3-character level that consists of a letter followed by two numbers\
+    \ and are accompanied by a complete description of the operation group.\r\n</p>"
+  id: /government/statistics/announcements/episode-based-acute-activity-operations-201314
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-three-weeks-ending-4-january-2015'
+    target='_blank'>Winter Situation Report, three weeks ending 4 January 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
+  id: /government/statistics/announcements/winter-situation-report-three-weeks-ending-4-january-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-11th-january'
+    target='_blank'>Winter Situation Report, week ending 11th January 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
+  id: /government/statistics/announcements/winter-situation-report-week-ending-11th-january
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-22nd-february-2015'
+    target='_blank'>Winter Situation Report, week ending 22nd February 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
+  id: /government/statistics/announcements/winter-situation-report-week-ending-22nd-february-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2018'
+    target='_blank'>Smoking, Drinking and Drug Use among Young People in England 2018</a></h2><p>The
+    survey report presents information on the percentage of pupils who have ever smoked,
+    tried alcohol or taken drugs and on their regular use.</p>
+  id: /government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2018
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/cold-weather-plan-reversion-to-level-1-alert'\
+    \ target='_blank'>Cold weather plan: reversion to level 1 alert</a></h2><p>Following\
+    \ issue of a level 2 alert last week, the Met Office has reported that this has\
+    \ now reverted to level 1 for areas in the North West,\u2026</p>"
+  id: /government/news/cold-weather-plan-reversion-to-level-1-alert
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-25th-january'
+    target='_blank'>Winter Situation Report, week ending 25th January 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
+  id: /government/statistics/announcements/winter-situation-report-week-ending-25th-january
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/fireworks-injuries-in-northern-ireland-2015''
+    target=''_blank''>Fireworks Injuries in Northern Ireland: 2015</a></h2><p>This
+    statistical release gives details of the number of persons injured by fireworks
+    in Northern Ireland during the Halloween period. The survey covers a four/five-week
+    period and covers those injuries treated at A&E Departments and Minor Injuries
+    Units.</p>'
+  id: /government/statistics/fireworks-injuries-in-northern-ireland-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/pm-call-with-hrh-prince-mohammed-bin-salman-of-saudi-arabia'
+    target='_blank'>PM call with HRH Prince Mohammed bin Salman of Saudi Arabia</a></h2><p>Theresa
+    May spoke with Prince Mohammed bin Salman of Saudi Arabia about our close bilateral
+    ties and efforts to resolve the situation in the Gulf region. </p>
+  id: /government/news/pm-call-with-hrh-prince-mohammed-bin-salman-of-saudi-arabia
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/female-genital-mutilation-experimental-statistics-december-2014''
+    target=''_blank''>Female genital mutilation, experimental statistics: December
+    2014</a></h2><p>Newly identified cases of FGM and active caseload. England and
+    commissioning regions.</p>'
+  id: /government/statistics/female-genital-mutilation-experimental-statistics-december-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/ae-attendances-and-emergency-admissions-week-ending-4-january-2015'
+    target='_blank'>A&E Attendances and Emergency Admissions, week ending 4 January
+    2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/weekly-ae-sitreps-2014-15/</p>
+  id: /government/statistics/announcements/ae-attendances-and-emergency-admissions-week-ending-4-january-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2016'
+    target='_blank'>Smoking, Drinking and Drug Use among Young People in England 2016</a></h2><p>The
+    survey report presents information on the percentage of pupils who have ever smoked,
+    tried alcohol or taken drugs and on their regular use.</p>
+  id: /government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2016
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-18th-january'
+    target='_blank'>Winter Situation Report, week ending 18th January 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
+  id: /government/statistics/announcements/winter-situation-report-week-ending-18th-january
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/morecambe-bay-investigation-open-interview-records''
+    target=''_blank''>Morecambe Bay Investigation: open interview records</a></h2><p>Records
+    from the Morecambe Bay Investigation open interview sessions.</p>'
+  id: /government/publications/morecambe-bay-investigation-open-interview-records
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/learning-from-reviews-second-edition'
+    target='_blank'>Learning from reviews, second edition</a></h2><p>Part of the IRP's
+    'Learning from reviews' series examining lessons from the panel's full reviews
+    and initial assessments.</p>
+  id: /government/publications/learning-from-reviews-second-edition
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/female-genital-mutilation-apr-to-jun-2017-experimental-statistics'
+    target='_blank'>Female Genital Mutilation Apr to Jun 2017, experimental statistics</a></h2><p>Cases
+    of Female Genital Mutilation (FGM) added to the FGM Enhanced Dataset collection
+    platform between 1 April 2017 and 30 June 2017. England. </p>
+  id: /government/statistics/female-genital-mutilation-apr-to-jun-2017-experimental-statistics
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/statistics/announcements/marwolaethau-yn-ymwneud-ag-mrsa-cyrmu-2014'\
+    \ target='_blank'>Marwolaethau yn ymwneud ag MRSA, Cyrmu, 2014</a></h2><p>Marwolaethau\
+    \ MRSA yng Nghymru yn 2014, yn \xF4l rhyw, gr\u0175p oedran a lleoliad y farwolaeth.</p>"
+  id: /government/statistics/announcements/marwolaethau-yn-ymwneud-ag-mrsa-cyrmu-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/learning-from-reviews-first-edition'
+    target='_blank'>Learning from reviews, first edition</a></h2><p>Part of the IRP's
+    'Learning from reviews' series examining lessons from the panel's full reviews
+    and initial assessments.</p>
+  id: /government/publications/learning-from-reviews-first-edition
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-8th-february'
+    target='_blank'>Winter Situation Report, week ending 8th February 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
+  id: /government/statistics/announcements/winter-situation-report-week-ending-8th-february
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/take-a-tour-of-monitors-new-website'\
+    \ target='_blank'>Take a tour of Monitor\u2019s new website</a></h2><p>Monitor\u2019\
+    s website has moved to GOV.UK/monitor. </p>"
+  id: /government/news/take-a-tour-of-monitors-new-website
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2013''
+    target=''_blank''>Smoking, drinking and drug use among young people in England:
+    2013</a></h2><p>Smoking, Drinking and Drugs Use among Young People in England
+    is an annual survey carried out in participating schools across England to provide
+    information on pupils'' smoking, drinking and drug use behaviours. The survey
+    focuses on different behaviours in different years, alternating between smoking
+    and drinking one year, to drug use the next.</p>'
+  id: /government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2013
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-1st-february'
+    target='_blank'>Winter Situation Report, week ending 1st February 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
+  id: /government/statistics/announcements/winter-situation-report-week-ending-1st-february
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/news/question-3-how-relevant-was-the-information''
+    target=''_blank''>Question 3. How relevant was the information</a></h2><p>Was
+    the information you got from the stand:
+
+
+    Relevant?
+
+    Somewhat relevant?
+
+    Not relevant?
+
+
+    Question 4
+
+    </p>'
+  id: /government/news/question-3-how-relevant-was-the-information
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2014''
+    target=''_blank''>Smoking, drinking and drug use among young people in England:
+    2014</a></h2><p>Smoking, Drinking and Drugs Use among Young People in England
+    is an annual survey carried out in participating schools across England to provide
+    information on pupils'' smoking, drinking and drug use behaviours. The survey
+    focuses on different behaviours in different years, alternating between smoking
+    and drinking one year, to drug use the next.</p>'
+  id: /government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/multi-million-pound-drug-smuggler-gets-30-years'
+    target='_blank'>Multi-million pound drug smuggler gets 30 years</a></h2><p>A man
+    has been jailed for 30 years for smuggling millions of pounds worth of drugs into
+    the UK, following an investigation by the UK Border Agency.</p>
+  id: /government/news/multi-million-pound-drug-smuggler-gets-30-years
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/christmas-and-new-year-opening-times--2'
+    target='_blank'>Christmas and New Year opening times</a></h2><p>Details of MHRA's
+    festive opening times. </p>
+  id: /government/news/christmas-and-new-year-opening-times--2
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/health-advice-for-people-travelling-to-a-zika-affected-area'
+    target='_blank'>Health advice for people travelling to a Zika affected area</a></h2><p>Top
+    tips for people going to the Rio Olympics from Chief Medical Officer Professor,
+    Dame Sally Davies.</p>
+  id: /government/news/health-advice-for-people-travelling-to-a-zika-affected-area
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/publications/sunbeds-safety-advice'\
+    \ target='_blank'>Sunbeds: safety advice</a></h2><p>Advice on the use of sunbeds\
+    \ for cosmetic tanning: how to minimise exposure to ultraviolet radiation (UVR).\r\
+    \n</p>"
+  id: /government/publications/sunbeds-safety-advice
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/publications/winter-health-watch-summary-31-march-2016'\
+    \ target='_blank'>Winter health watch: weekly summaries 2015 to 2016</a></h2><p>Weekly\
+    \ summaries of the winter health watch indicators for the 2015 to 2016 season.\r\
+    \n</p>"
+  id: /government/publications/winter-health-watch-summary-31-march-2016
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/population-screening-programmes
+    text: <a href='https://www.gov.uk/health-and-social-care/population-screening-programmes'
+      target='_blank'>Health and social care > Public health > Population screening
+      programmes</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/exclusive-screening-of-in-the-land-of-blood-and-honey-introduced-by-director-angelina-jolie'
+    target='_blank'>Exclusive screening of 'In the Land of Blood and Honey'</a></h2><p>Film
+    screening with introduction by Angelina Jolie, at ExCel London 17.30pm Wednesday
+    11 June.</p>
+  id: /government/news/exclusive-screening-of-in-the-land-of-blood-and-honey-introduced-by-director-angelina-jolie
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/statistics-on-alcohol-england-2014-additional-tables--2''
+    target=''_blank''>Statistics on alcohol England: 2014, additional tables</a></h2><p>Annual
+    report presenting a broad picture of health issues related to alcohol misuse,
+    drinking habits and behaviours, drinking related ill health and mortality, affordability
+    of alcohol and alcohol related costs.</p>'
+  id: /government/statistics/statistics-on-alcohol-england-2014-additional-tables--2
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/stroke-statistics-update-february-2015-update''
+    target=''_blank''>Stroke statistics update: February 2015 update</a></h2><p>Stroke
+    Statistics update.</p>'
+  id: /government/statistics/stroke-statistics-update-february-2015-update
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/rabies-in-northern-greece'
+    target='_blank'>Rabies in northern Greece</a></h2><p>No cases of rabies in animals
+    have been detected since 2014 and Greece is therefore now considered to be no
+    risk for rabies.</p>
+  id: /government/news/rabies-in-northern-greece
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/guidance/payment-scheme-for-former-british-child-migrants-appeal-process''
+    target=''_blank''>Payment scheme for former British child migrants: appeal process</a></h2><p>Guide
+    to the process of making an appeal, as part of the payment scheme for former British
+    child migrants.</p>'
+  id: /guidance/payment-scheme-for-former-british-child-migrants-appeal-process
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/social-care
+    text: <a href='https://www.gov.uk/health-and-social-care/social-care' target='_blank'>Health
+      and social care > Social care</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/children-aged-under-16-years-who-have-experienced-the-death-of-their-mother'
+    target='_blank'>Children aged under 16 years who have experienced the death of
+    their mother</a></h2><p>The Longitudinal Study estimates the number of children
+    who lose a mother before they reach the age of 16 years old.</p>
+  id: /government/statistics/children-aged-under-16-years-who-have-experienced-the-death-of-their-mother
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/winter-health-watch-summary-26-march-2015''
+    target=''_blank''>Winter health watch: weekly summaries 2014 to 2015</a></h2><p>Weekly
+    summaries of the winter health watch indicators for the 2014 to 2015 season.</p>'
+  id: /government/publications/winter-health-watch-summary-26-march-2015
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/phe-publishes-independent-expert-e-cigarettes-evidence-review'\
+    \ target='_blank'>PHE publishes independent expert e-cigarettes evidence review</a></h2><p>A\
+    \ new Public Health England (PHE) e-cigarette evidence review, undertaken by leading\
+    \ independent tobacco experts, provides an update on PHE\u2019s 2015 review.</p>"
+  id: /government/news/phe-publishes-independent-expert-e-cigarettes-evidence-review
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/public-health-responsibility-deal-announces-new-food-pledge'\
+    \ target='_blank'>Public Health Responsibility Deal announces new food pledge</a></h2><p>A\
+    \ new Public Health Responsibility Deal\_pledge on calorie reduction</p>"
+  id: /government/news/public-health-responsibility-deal-announces-new-food-pledge
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/phe-and-nathnac-advise-fans-going-to-the-icc-cricket-world-cup-to-avoid-exposure-to-the-sun'
+    target='_blank'>PHE and NaTHNaC advise fans going to the ICC Cricket World Cup
+    to avoid exposure to the sun</a></h2><p>The ICC Cricket World Cup is taking place
+    in Australia and New Zealand from 14 February to 28 March 2015.</p>
+  id: /government/news/phe-and-nathnac-advise-fans-going-to-the-icc-cricket-world-cup-to-avoid-exposure-to-the-sun
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/healthy-fasting-during-ramadan'
+    target='_blank'>Healthy fasting during Ramadan</a></h2><p>Ramadan is the Islamic
+    month of fasting, during which time Muslims do not eat or drink during daylight
+    hours.</p>
+  id: /government/news/healthy-fasting-during-ramadan
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/young-peoples-well-being-2017'
+    target='_blank'>Young people's well-being 2017</a></h2><p>Progress against a set
+    of well-being indicators for young people (aged 16 to 24) in the UK including
+    health, environment, personal finances and crime.</p>
+  id: /government/statistics/young-peoples-well-being-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/announcements/deaths-registered-in-england-and-wales-provisional-week-ending-16-mar-2018''
+    target=''_blank''>Deaths registered in England and Wales, provisional: week ending
+    16 Mar 2018</a></h2><p>Number of deaths registered in the latest week.</p>'
+  id: /government/statistics/announcements/deaths-registered-in-england-and-wales-provisional-week-ending-16-mar-2018
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/news/zika-virus-updated-travel-advice-for-pregnant-women''
+    target=''_blank''>Zika virus: updated travel advice for pregnant women</a></h2><p>Pregnant
+    women advised to postpone non-essential travel to areas with active Zika virus
+    transmission.</p>'
+  id: /government/news/zika-virus-updated-travel-advice-for-pregnant-women
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/winter-health-watch-weekly-summaries-2017-to-2018''
+    target=''_blank''>Winter health watch: weekly summaries 2017 to 2018</a></h2><p>Weekly
+    summaries of the winter health watch indicators for the 2017 to 2018 season.</p>'
+  id: /government/publications/winter-health-watch-weekly-summaries-2017-to-2018
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/medicines-medical-devices-blood
+    text: <a href='https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood'
+      target='_blank'>Health and social care > Medicines, medical devices</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/estates-and-facilities-alert-potential-failure-of-high-voltage-equipment'\
+    \ target='_blank'>Estates and Facilities Alert \u2013 potential failure of high-voltage\
+    \ equipment</a></h2><p>This alert highlights the potential failure of the Schneider\
+    \ Electric (Merlin Gerin) Ringmaster RN2c, RE2c and RN6c ring main units.</p>"
+  id: /government/news/estates-and-facilities-alert-potential-failure-of-high-voltage-equipment
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/dangers-of-vitamin-d-deficiency-highlighted'
+    target='_blank'>Dangers of vitamin D deficiency highlighted</a></h2><p>Following
+    fresh concerns about vitamin D deficiency, the UK's 4 Chief Medical Officers have
+    written to health professionals reminding them about this issue.</p>
+  id: /government/news/dangers-of-vitamin-d-deficiency-highlighted
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/electric-and-magnetic-fields-reducing-exposure''
+    target=''_blank''>Electric and magnetic fields: reducing exposure</a></h2><p>Safety
+    advice on electric and magnetic fields in our homes and near power lines.</p>'
+  id: /government/publications/electric-and-magnetic-fields-reducing-exposure
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/female-genital-mutilation-prevalence-october-2014''
+    target=''_blank''>Female genital mutilation: September 2014</a></h2><p>Female
+    Genital Mutilation Prevalence.</p>'
+  id: /government/statistics/female-genital-mutilation-prevalence-october-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/minister-sees-consequences-of-drug-smuggling'
+    target='_blank'>Minister sees consequences of drug smuggling</a></h2><p>Home Office
+    minister James Brokenshire has warned of the severe consequnces of smuggling drugs
+    when he visited Sarita Colonia jail in Peru.</p>
+  id: /government/news/minister-sees-consequences-of-drug-smuggling
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/surviving-the-cold-and-flu-season-without-antibiotics'
+    target='_blank'>Surviving the cold and flu season without antibiotics</a></h2><p>Public
+    Health England issues advice to help people take care of themselves during the
+    flu season.</p>
+  id: /government/news/surviving-the-cold-and-flu-season-without-antibiotics
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/tobacco-displays-in-supermarkets-to-be-removed-by-6-april'
+    target='_blank'>Tobacco displays in supermarkets to be removed by 6 April</a></h2><p>Large
+    shops will no longer be able to display tobacco products to the public from 6
+    April 2012.</p>
+  id: /government/news/tobacco-displays-in-supermarkets-to-be-removed-by-6-april
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/parallel-import-licenses-granted-in-august-2017'
+    target='_blank'>Parallel import licenses granted in August 2017</a></h2><p>Parallel
+    import licenses granted in August 2017.</p>
+  id: /government/publications/parallel-import-licenses-granted-in-august-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/phe-launches-change4life-campaign-around-childrens-snacking'\
+    \ target='_blank'>PHE launches Change4Life campaign around children\u2019s snacking</a></h2><p>New\
+    \ Change4Life campaign encourages parents to 'look for 100-calorie snacks, two\
+    \ a day max' to cut children\u2019s sugar intake.</p>"
+  id: /government/news/phe-launches-change4life-campaign-around-childrens-snacking
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/guidance/rabies'' target=''_blank''>Rabies:
+    how to spot and report the disease in animals</a></h2><p>How to spot rabies, what
+    to do if you suspect it and measures to prevent its spread.</p>'
+  id: /guidance/rabies
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/medicines-medical-devices-blood
+    text: <a href='https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood'
+      target='_blank'>Health and social care > Medicines, medical devices</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/mhra-network-outage' target='_blank'>MHRA
+    network outage - now resolved</a></h2><p>The following is a service update.</p>
+  id: /government/news/mhra-network-outage
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/case-studies/beat-the-street-getting-communities-moving''
+    target=''_blank''>Beat the Street: getting communities moving</a></h2><p>Beat
+    the Street energises whole communities, using a simple game to get people moving.</p>'
+  id: /government/case-studies/beat-the-street-getting-communities-moving
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-conditions
+    text: <a href='https://www.gov.uk/health-and-social-care/health-conditions' target='_blank'>Health
+      and social care > Public health > Health conditions</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/public-health-england-launches-nationwide-breast-cancer-campaign'
+    target='_blank'>Public Health England launches nationwide breast cancer campaign</a></h2><p>Low
+    awareness of non-lump breast cancer symptoms is putting the health of women over
+    70 at risk.</p>
+  id: /government/news/public-health-england-launches-nationwide-breast-cancer-campaign
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/new-survey-of-mums-reveals-perceived-barriers-to-breastfeeding'
+    target='_blank'>New survey of mums reveals perceived barriers to breastfeeding</a></h2><p>The
+    proportion of new mothers who are still breastfeeding after 2 months drops by
+    40%, according to data from PHE and NHS England.</p>
+  id: /government/news/new-survey-of-mums-reveals-perceived-barriers-to-breastfeeding
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/news/hot-weather-health-warnings-2018''
+    target=''_blank''>Hot weather health warnings: 2018</a></h2><p>Warmer weather
+    forecasts for parts of England have prompted warnings to take care from Public
+    Health England (PHE).</p>'
+  id: /government/news/hot-weather-health-warnings-2018
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/salmonella-by-age-group-and-year'
+    target='_blank'>Salmonella by age group and year</a></h2><p>Epidemiological for
+    salmonella cases recorded by age group and year.</p>
+  id: /government/publications/salmonella-by-age-group-and-year
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/phe-urges-parents-to-cut-sugary-drinks-from-childrens-diets'\
+    \ target='_blank'>PHE urges parents to cut sugary drinks from children\u2019s\
+    \ diets</a></h2><p>Public Health England (PHE) follow recommendations of independent\
+    \ carbohydrates and health report, including halving sugar consumption. </p>"
+  id: /government/news/phe-urges-parents-to-cut-sugary-drinks-from-childrens-diets
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/electric-and-magnetic-fields-sources-and-exposure''
+    target=''_blank''>Electric and magnetic fields: sources and exposure</a></h2><p>Advice
+    on exposure to electric and magnetic fields that come from electrical appliances
+    and power lines.</p>'
+  id: /government/publications/electric-and-magnetic-fields-sources-and-exposure
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/reptiles-pose-a-risk-of-salmonella-infection'
+    target='_blank'>Reptiles pose a risk of salmonella infection</a></h2><p>PHE advise
+    maintaining hand hygiene when handling snakes to avoid getting a salmonella infection.</p>
+  id: /government/news/reptiles-pose-a-risk-of-salmonella-infection
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/episode-based-acute-activity-hrg4-201415'
+    target='_blank'>Episode based acute activity - HRG4 2014/15</a></h2><p>Episode
+    based acute activity - HRG4 2014/15</p>
+  id: /government/statistics/episode-based-acute-activity-hrg4-201415
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/winter-health-watch-summary-30-march-2017''
+    target=''_blank''>Winter health watch: weekly summaries 2016 to 2017</a></h2><p>Weekly
+    summaries of the winter health watch indicators for the 2016 to 2017 season.</p>'
+  id: /government/publications/winter-health-watch-summary-30-march-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/circular-0152015-temporary-control-of-5-methylphenidate-based-nps''
+    target=''_blank''>Circular 015/2015: temporary control of 5 methylphenidate-based
+    NPS</a></h2><p>This circular concerns the laying of a temporary class drug order
+    in respect of 5 methylphenidate-based novel psychoactive substances (NPS). </p>'
+  id: /government/publications/circular-0152015-temporary-control-of-5-methylphenidate-based-nps
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/ultraviolet-radiation-uvr-clothing-protection''
+    target=''_blank''>Ultraviolet radiation (UVR): clothing protection</a></h2><p>Exposure
+    to ultraviolet radiation (UVR) constitutes a significant health risk to people,
+    with the sun being the main source of UVR for most. </p>'
+  id: /government/publications/ultraviolet-radiation-uvr-clothing-protection
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/the-earl-and-countess-of-wessex-to-visit-sri-lanka'
+    target='_blank'>The Earl and Countess of Wessex to visit Sri Lanka</a></h2><p>His
+    Royal Highness The Prince Edward, Earl of Wessex, and Her Royal Highness The Countess
+    of Wessex, will visit Sri Lanka from 31 January to 4 February 2018.</p>
+  id: /government/news/the-earl-and-countess-of-wessex-to-visit-sri-lanka
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-improvement
+    text: <a href='https://www.gov.uk/health-and-social-care/health-improvement' target='_blank'>Health
+      and social care > Public health > Health improvement</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/adult-smoking-habits-in-the-uk-2018''
+    target=''_blank''>Adult smoking habits in the UK: 2018</a></h2><p>Cigarette smoking
+    among adults including the proportion of people who smoke, their demographic breakdowns,
+    changes over time, and e-cigarettes.</p>'
+  id: /government/statistics/adult-smoking-habits-in-the-uk-2018
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/publications/parallel-import-licences-granted-in-march-2017'\
+    \ target='_blank'>Parallel import licences granted in March 2017</a></h2><p>\r\
+    \nParallel import licences granted in March 2017</p>"
+  id: /government/publications/parallel-import-licences-granted-in-march-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/drug-misuse-and-dependency
+    text: <a href='https://www.gov.uk/health-and-social-care/drug-misuse-and-dependency'
+      target='_blank'>Health and social care > Health improvement > Drug misuse and
+      dependency</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/collections/acmd-correspondence--2'
+    target='_blank'>ACMD correspondence</a></h2><p>This series brings together all
+    documents relating to ACMD correspondence.</p>
+  id: /government/collections/acmd-correspondence--2
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/national-health-service
+    text: <a href='https://www.gov.uk/health-and-social-care/national-health-service'
+      target='_blank'>Health and social care > National Health Service</a>
+  - key: /health-and-social-care/smoking
+    text: <a href='https://www.gov.uk/health-and-social-care/smoking' target='_blank'>Health
+      and social care > Health improvement > Smoking</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/press-briefing-morning-3-april-2014'\
+    \ target='_blank'>Press briefing: morning 3 April 2014</a></h2><p>The Prime Minister\u2019\
+    s Spokesperson (PMS) answered questions on Maria Miller, Waitrose, plain packaging\
+    \ and immigration.</p>"
+  id: /government/news/press-briefing-morning-3-april-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /health-and-social-care
+    text: <a href='https://www.gov.uk/health-and-social-care' target='_blank'>Health
+      and social care</a>
+  - key: /health-and-social-care/public-health
+    text: <a href='https://www.gov.uk/health-and-social-care/public-health' target='_blank'>Health
+      and social care > Public health</a>
+  - key: /health-and-social-care/health-protection
+    text: <a href='https://www.gov.uk/health-and-social-care/health-protection' target='_blank'>Health
+      and social care > Public health > Health protection</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/wireless-networks-wi-fi-radio-waves-and-health''
+    target=''_blank''>Wireless networks (wi-fi): radio waves and health</a></h2><p>Guidelines
+    on exposure to radio signals from wireless networks (wi-fi).</p>'
+  id: /government/publications/wireless-networks-wi-fi-radio-waves-and-health
+  question: Which topic should the following page be tagged to?
+  url: ''

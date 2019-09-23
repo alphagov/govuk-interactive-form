@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  get "/:items" => "items#index"
+  get ":items" => "items#start_page"
+  get ":items/items" => "items#index", as: :items
   resources :answers, only: [:create]
+  resources :user_feedbacks, only: [:create]
   get "/healthcheck", to: proc { [200, {}, %w(OK)] }
 end
