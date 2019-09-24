@@ -1,0 +1,634 @@
+questions:
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/creative-sector-receives-record-boost-of-700-million-pounds'\
+    \ target='_blank'>Creative sector receives record boost of \xA3700 million pounds</a></h2><p>From\
+    \ TV Series \"The Crown\" to independent theatre productions and video games,\
+    \ the 2016-17 tax relief supported work across the UK's creative industries.</p>"
+  id: /government/news/creative-sector-receives-record-boost-of-700-million-pounds
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/chancellor-to-waive-1-million-vat-on-tower-of-london-poppies'\
+    \ target='_blank'>Chancellor to waive \xA31 million VAT on Tower of London poppies</a></h2><p>Government\
+    \ will donate amount equivalent to expected VAT receipts from sale of the poppies\
+    \ using some of LIBOR fines collected from banks.</p>"
+  id: /government/news/chancellor-to-waive-1-million-vat-on-tower-of-london-poppies
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/x-factor-winners-charity-single-to-be-vat-free-chancellor-announces'\
+    \ target='_blank'>X-Factor winner's charity single to be VAT free, Chancellor\
+    \ announces</a></h2><p>Government to waive VAT on sales of the X-Factor winner\u2019\
+    s charity single</p>"
+  id: /government/news/x-factor-winners-charity-single-to-be-vat-free-chancellor-announces
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/international-tax
+    text: <a href='https://www.gov.uk/money/international-tax' target='_blank'>Money
+      > Business tax > International tax</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/alcohol-and-tobacco-taxation-revenue'
+    target='_blank'>Alcohol and tobacco taxation revenue</a></h2><p>The Treasury responds
+    to a request for information on alcohol and tobacco taxation revenue.</p>
+  id: /government/publications/alcohol-and-tobacco-taxation-revenue
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/boost-for-family-finances-as-easter-getaway-begins'
+    target='_blank'>Boost for family finances as Easter getaway begins</a></h2><p>Children
+    under 16 will join under 12s in no longer having to pay Air Passenger Duty in
+    economy class. </p>
+  id: /government/news/boost-for-family-finances-as-easter-getaway-begins
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/dealing-with-hmrc
+    text: <a href='https://www.gov.uk/money/dealing-with-hmrc' target='_blank'>Money
+      > Dealing with HMRC</a>
+  - key: /money/tax-agent-guidance
+    text: <a href='https://www.gov.uk/money/tax-agent-guidance' target='_blank'>Money
+      > Dealing with HMRC > Tax agent and adviser guidance</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/ots-looks-to-recruit-senior-policy-advisors'
+    target='_blank'>OTS looks to recruit senior policy advisors</a></h2><p>OTS invites
+    applications for posts</p>
+  id: /government/news/ots-looks-to-recruit-senior-policy-advisors
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/chancellor-to-waive-vat-on-band-aid-anniversary-single'
+    target='_blank'>Chancellor to waive VAT on Band Aid anniversary single</a></h2><p>Chancellor
+    George Osborne has today agreed to waive VAT on sales of the Band Aid anniversary
+    single.</p>
+  id: /government/news/chancellor-to-waive-vat-on-band-aid-anniversary-single
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/news/the-story-of-your-boxing-day-boxset-record-tax-relief-for-big-budget-tv''
+    target=''_blank''>The story of your Boxing Day boxset: record tax relief for big
+    budget TV</a></h2><p>Since tax relief for big budget TV shows came into effect
+    in 2013, shows such as Game of Thrones and Downton Abbey have been able to claim.
+    </p>'
+  id: /government/news/the-story-of-your-boxing-day-boxset-record-tax-relief-for-big-budget-tv
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/personal-tax
+    text: <a href='https://www.gov.uk/money/personal-tax' target='_blank'>Money >
+      Personal tax</a>
+  - key: /money/income-tax
+    text: <a href='https://www.gov.uk/money/income-tax' target='_blank'>Money > Personal
+      tax > Income Tax</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/creative-industries-statistics'
+    target='_blank'>Creative Industries Statistics</a></h2><p>Official Statistics
+    on the number of tax credits claims and the amount paid for Film, High-end Television
+    and Animation Tax Relief.</p>
+  id: /government/statistics/announcements/creative-industries-statistics
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/government-to-donate-vat-on-x-factor-charity-single'\
+    \ target='_blank'>Government to donate VAT on X Factor charity single</a></h2><p>Profits\
+    \ from sales of the single will be donated to two children\u2019s charities, Together\
+    \ for Short Lives and Shooting Star Chase. </p>"
+  id: /government/news/government-to-donate-vat-on-x-factor-charity-single
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/record-year-for-uk-film-industry-tax-relief'
+    target='_blank'>Record year for UK film industry tax relief</a></h2><p>220 films
+    were made in the UK in 2014 to 2015 thanks to the UK film tax relief. </p>
+  id: /government/news/record-year-for-uk-film-industry-tax-relief
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/personal-tax
+    text: <a href='https://www.gov.uk/money/personal-tax' target='_blank'>Money >
+      Personal tax</a>
+  - key: /money/self-assessment
+    text: <a href='https://www.gov.uk/money/self-assessment' target='_blank'>Money
+      > Personal tax > Self Assessment</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/venture-capital-trusts-distribution-of-numbers'
+    target='_blank'>Venture Capital Trusts (Distribution of numbers)</a></h2><p>Distribution
+    of Venture Capital Trust (VCT) scheme investors and amount of invesment claimed
+    for tax years ending 2012 to 2014.</p>
+  id: /government/statistics/announcements/venture-capital-trusts-distribution-of-numbers
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/personal-tax
+    text: <a href='https://www.gov.uk/money/personal-tax' target='_blank'>Money >
+      Personal tax</a>
+  - key: /money/capital-gains-tax
+    text: <a href='https://www.gov.uk/money/capital-gains-tax' target='_blank'>Money
+      > Personal tax > Capital Gains Tax</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/statistics/announcements/capital-gains-tax-statistics--3'
+    target='_blank'>Capital Gains Tax</a></h2><p>Provides breakdowns of the number
+    of capital gains taxpayers, gains and tax accruals (liabilities) by year of disposal.</p>
+  id: /government/statistics/announcements/capital-gains-tax-statistics--3
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/football-in-focus-on-underpaid-workers'
+    target='_blank'>Football in focus on underpaid workers</a></h2><p>Professional
+    football clubs who fail to pay staff the National Minimum Wage (NMW) can expect
+    HMRC to take action against them, the department announced today.</p>
+  id: /government/news/football-in-focus-on-underpaid-workers
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/dealing-with-hmrc
+    text: <a href='https://www.gov.uk/money/dealing-with-hmrc' target='_blank'>Money
+      > Dealing with HMRC</a>
+  - key: /money/tax-agent-guidance
+    text: <a href='https://www.gov.uk/money/tax-agent-guidance' target='_blank'>Money
+      > Dealing with HMRC > Tax agent and adviser guidance</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/guidance/arweiniad-a-thaflenni-gwybodaeth-cthem'
+    target='_blank'>Arweiniad a thaflenni gwybodaeth CThEM</a></h2><p>Arweiniad, taflenni,
+    taflenni gwybodaeth a llyfrynnau a gyhoeddwyd gan Gyllid a Thollau EM.</p>
+  id: /guidance/arweiniad-a-thaflenni-gwybodaeth-cthem
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/gambling-duties
+    text: <a href='https://www.gov.uk/money/gambling-duties' target='_blank'>Money
+      > Business tax > Gambling duties</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/announcements/betting-and-gaming-bulletin-september-2017''
+    target=''_blank''>Betting and Gaming bulletin: September 2017</a></h2><p>Monthly
+    statistics on Betting and Gaming receipts and stakes.</p>'
+  id: /government/statistics/announcements/betting-and-gaming-bulletin-september-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/news/press-briefing-morning-14-march-2014'\
+    \ target='_blank'>Press briefing: morning 14 March 2014</a></h2><p>The Prime Minister\u2019\
+    s Spokesperson (PMS) answered questions on Ukraine, Syria, tax and Scotland.</p>"
+  id: /government/news/press-briefing-morning-14-march-2014
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/personal-tax
+    text: <a href='https://www.gov.uk/money/personal-tax' target='_blank'>Money >
+      Personal tax</a>
+  - key: /money/income-tax
+    text: <a href='https://www.gov.uk/money/income-tax' target='_blank'>Money > Personal
+      tax > Income Tax</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/announcements/tax-allowances-and-reliefs-in-force-cost-not-known--2''
+    target=''_blank''>Tax allowances and reliefs in force: cost not known</a></h2><p>Tax
+    allowances and reliefs in force in but where the cost is not known</p>'
+  id: /government/statistics/announcements/tax-allowances-and-reliefs-in-force-cost-not-known--2
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/fugitive-jailed-as-expatriates-in-spain-urged-to-report-tobacco-smugglers'
+    target='_blank'>Fugitive jailed as expatriates in Spain urged to report tobacco
+    smugglers</a></h2><p>Expatriates with information or suspicions about tobacco
+    smuggling and tax fraud are being asked to call a Customs Hotline with any information
+    that could lead to arrests or seizures. </p>
+  id: /government/news/fugitive-jailed-as-expatriates-in-spain-urged-to-report-tobacco-smugglers
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/news/chancellor-waives-vat-on-jo-cox-charity-single'
+    target='_blank'>Chancellor waives VAT on Jo Cox charity single</a></h2><p>VAT
+    on sales of the Christmas single in memory of late MP Jo Cox will be donated to
+    charity, the Chancellor has announced.</p>
+  id: /government/news/chancellor-waives-vat-on-jo-cox-charity-single
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/personal-tax
+    text: <a href='https://www.gov.uk/money/personal-tax' target='_blank'>Money >
+      Personal tax</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/statistics/announcements/venture-capital-trusts-number-of-trusts-and-amount-of-funds-raised''
+    target=''_blank''>Venture Capital Trusts: number of trusts and amount of funds
+    raised</a></h2><p>The number of Venture Capital Trust companies raising funds
+    and the amounts raised for tax years ending 1996 to 2015.</p>'
+  id: /government/statistics/announcements/venture-capital-trusts-number-of-trusts-and-amount-of-funds-raised
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/tax-evasion-and-avoidance
+    text: <a href='https://www.gov.uk/money/tax-evasion-and-avoidance' target='_blank'>Money
+      > Tax evasion and avoidance</a>
+  - key: /money/dealing-with-hmrc
+    text: <a href='https://www.gov.uk/money/dealing-with-hmrc' target='_blank'>Money
+      > Dealing with HMRC</a>
+  - key: /money/tax-agent-guidance
+    text: <a href='https://www.gov.uk/money/tax-agent-guidance' target='_blank'>Money
+      > Dealing with HMRC > Tax agent and adviser guidance</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/beneficial-ownership-countries-that-have-pledged-to-exchange-information''
+    target=''_blank''>Beneficial ownership: countries that support the initiative
+    to exchange information</a></h2><p>A list of countries that support the initiative
+    to systematically share information on beneficial ownership.</p>'
+  id: /government/publications/beneficial-ownership-countries-that-have-pledged-to-exchange-information
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/guidance/goods-and-services-you-can-claim-for-under-the-vat-diy-scheme'
+    target='_blank'>Goods and services you can claim for under the VAT DIY Scheme</a></h2><p>Find
+    out which items you can or cannot claim a VAT refund for under the DIY Housebuilders'
+    Scheme.</p>
+  id: /guidance/goods-and-services-you-can-claim-for-under-the-vat-diy-scheme
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/guidance/animals-and-animal-food-notice-70115'
+    target='_blank'>Animals and animal food (VAT Notice 701/15)</a></h2><p>Find out
+    which live animals and animal foods or feeding stuffs are zero-rated for VAT.</p>
+  id: /guidance/animals-and-animal-food-notice-70115
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/paye
+    text: <a href='https://www.gov.uk/money/paye' target='_blank'>Money > Business
+      tax > PAYE</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/basic-paye-tools-first-time-users-download-and-install''
+    target=''_blank''>First time users: how to download and install Basic PAYE Tools</a></h2><p>Step-by-step
+    help on downloading and installing Basic PAYE Tools onto your computer.</p>'
+  id: /government/publications/basic-paye-tools-first-time-users-download-and-install
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/paye
+    text: <a href='https://www.gov.uk/money/paye' target='_blank'>Money > Business
+      tax > PAYE</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/publications/getting-basic-paye-tools-working-on-linux'\
+    \ target='_blank'>Basic PAYE Tools: how to use with Linux operating systems</a></h2><p>Use\
+    \ this guide if you\u2019re having problems running Basic PAYE Tools on a Linux\
+    \ operating system and need help to install the files.</p>"
+  id: /government/publications/getting-basic-paye-tools-working-on-linux
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/dealing-with-hmrc
+    text: <a href='https://www.gov.uk/money/dealing-with-hmrc' target='_blank'>Money
+      > Dealing with HMRC</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/collections/gwybodaeth-gorfforaethol-ac-adroddiadau'\
+    \ target='_blank'>Gwybodaeth gorfforaethol ac adroddiadau</a></h2><p>Adroddiadau\
+    \ ac arweiniad gan gynnwys sut y mae CThEM yn gweithio er mwyn trin yr iaith Gymraeg\
+    \ a\u2019r iaith Saesneg yn gyfartal wrth ddarparu gwasanaethau cyhoeddus yng\
+    \ Nghymru.</p>"
+  id: /government/collections/gwybodaeth-gorfforaethol-ac-adroddiadau
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/dealing-with-hmrc
+    text: <a href='https://www.gov.uk/money/dealing-with-hmrc' target='_blank'>Money
+      > Dealing with HMRC</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/corporation-tax
+    text: <a href='https://www.gov.uk/money/corporation-tax' target='_blank'>Money
+      > Business tax > Corporation Tax</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/vaccine-research-relief-expiry-in-2017''
+    target=''_blank''>Vaccine research relief: expiry in 2017</a></h2><p>This tax
+    information and impact note applies to companies that carry out R&D into prescribed
+    types of vaccine and other medicine.</p>'
+  id: /government/publications/vaccine-research-relief-expiry-in-2017
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/hmrc-internal-manuals/vat-womens-sanitary-products'\
+    \ target='_blank'>VAT Women\u2019s Sanitary Products</a></h2><p>Guidance on the\
+    \ reduced rate for women's sanitary products</p>"
+  id: /hmrc-internal-manuals/vat-womens-sanitary-products
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/guidance/check-if-your-drink-is-liable-for-the-soft-drinks-industry-levy'
+    target='_blank'>Check if your drink is liable for the Soft Drinks Industry Levy</a></h2><p>Find
+    out which drinks are liable for the Soft Drinks Industry Levy, and how much you
+    may need to pay.</p>
+  id: /guidance/check-if-your-drink-is-liable-for-the-soft-drinks-industry-levy
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/vat
+    text: <a href='https://www.gov.uk/money/vat' target='_blank'>Money > Business
+      tax > VAT</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/collections/gwe-rwydo-a-sgamiau'
+    target='_blank'>Gwe-rwydo a sgamiau</a></h2><p>Cyngor ar ddiogelwch gan Gyllid
+    a Thollau EM i'ch helpu i gadw'n ddiogel ar-lein wrth ddelio gyda ni.</p>
+  id: /government/collections/gwe-rwydo-a-sgamiau
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/corporation-tax
+    text: <a href='https://www.gov.uk/money/corporation-tax' target='_blank'>Money
+      > Business tax > Corporation Tax</a>
+  - key: none
+    text: None of the above
+  content: "<h2><a href='https://www.gov.uk/government/collections/creative-industries-statistics'\
+    \ target='_blank'>Creative industry annual tax relief statistics</a></h2><p>Find\
+    \ tax relief and expenditure figures for film, high-end television, animation,\
+    \ video games, children\u2019s television, theatre, orchestra, and museums and\
+    \ galleries exhibitions.</p>"
+  id: /government/collections/creative-industries-statistics
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/personal-tax
+    text: <a href='https://www.gov.uk/money/personal-tax' target='_blank'>Money >
+      Personal tax</a>
+  - key: /money/savings-investment-tax
+    text: <a href='https://www.gov.uk/money/savings-investment-tax' target='_blank'>Money
+      > Personal tax > Tax on savings and investments</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/child-trust-fund-ctf-bulletin-84''
+    target=''_blank''>Child Trust Fund: CTF Bulletin 84</a></h2><p>Bulletin for Child
+    Trust Fund (CTF) providers about annual subscription limits, The Share Foundation,
+    and requests to reverse CTF subscriptions.</p>'
+  id: /government/publications/child-trust-fund-ctf-bulletin-84
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/personal-tax
+    text: <a href='https://www.gov.uk/money/personal-tax' target='_blank'>Money >
+      Personal tax</a>
+  - key: /money/self-assessment
+    text: <a href='https://www.gov.uk/money/self-assessment' target='_blank'>Money
+      > Personal tax > Self Assessment</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/averaging-for-creators-of-literary-or-artistic-works-hs234-self-assessment-helpsheet'
+    target='_blank'>Averaging for creators of literary or artistic works (Self Assessment
+    helpsheet HS234)</a></h2><p>Find information about the averaging tax relief available
+    for authors or artists. </p>
+  id: /government/publications/averaging-for-creators-of-literary-or-artistic-works-hs234-self-assessment-helpsheet
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/tax-agent-guidance
+    text: <a href='https://www.gov.uk/money/tax-agent-guidance' target='_blank'>Money
+      > Dealing with HMRC > Tax agent and adviser guidance</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/fuel-duty-fuel-additives-and-extenders''
+    target=''_blank''>Fuel Duty: Fuel additives and extenders</a></h2><p>Fuel additives
+    and extenders and the warehousing of bioethanol used in the production of biodiesel.</p>'
+  id: /government/publications/fuel-duty-fuel-additives-and-extenders
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/business-tax
+    text: <a href='https://www.gov.uk/money/business-tax' target='_blank'>Money >
+      Business tax</a>
+  - key: /money/tax-agent-guidance
+    text: <a href='https://www.gov.uk/money/tax-agent-guidance' target='_blank'>Money
+      > Dealing with HMRC > Tax agent and adviser guidance</a>
+  - key: none
+    text: None of the above
+  content: '<h2><a href=''https://www.gov.uk/government/publications/fuel-duty-aqua-methanol-set-aside-for-use-or-used-as-fuel-in-any-engine-motor-or-machinery''
+    target=''_blank''>Fuel Duty: aqua methanol set aside for use, or used, as fuel
+    in any engine, motor or machinery</a></h2><p>This Tax Information and Impact Note
+    is about aqua methanol set aside for use, or used, as fuel in any engine, motor
+    or machinery.</p>'
+  id: /government/publications/fuel-duty-aqua-methanol-set-aside-for-use-or-used-as-fuel-in-any-engine-motor-or-machinery
+  question: Which topic should the following page be tagged to?
+  url: ''
+- answers:
+  - key: /money
+    text: <a href='https://www.gov.uk/money' target='_blank'>Money</a>
+  - key: /money/dealing-with-hmrc
+    text: <a href='https://www.gov.uk/money/dealing-with-hmrc' target='_blank'>Money
+      > Dealing with HMRC</a>
+  - key: /money/tax-agent-guidance
+    text: <a href='https://www.gov.uk/money/tax-agent-guidance' target='_blank'>Money
+      > Dealing with HMRC > Tax agent and adviser guidance</a>
+  - key: none
+    text: None of the above
+  content: <h2><a href='https://www.gov.uk/government/publications/obsolete-miscellaneous-statements-of-practice'
+    target='_blank'>Obsolete miscellaneous Statements of Practice</a></h2><p>List
+    of miscellaneous obsolete Statements of Practice.</p>
+  id: /government/publications/obsolete-miscellaneous-statements-of-practice
+  question: Which topic should the following page be tagged to?
+  url: ''
