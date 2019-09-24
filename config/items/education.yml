@@ -13,6 +13,8 @@ questions:
     Government Chemist team run a very well received workshop providing practical
     knowledge for assessing the conformity of confectionery items known as jelly mini-cups</p>
   id: /government/news/successful-workshop-on-assessment-of-jelly-mini-cups
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -33,6 +35,8 @@ questions:
     target='_blank'>Skills Dialogue event in Mexico</a></h2><p>Skills Dialogue event
     held in Mexico City on 7 March 2019 to gather stakeholder feedback.</p>
   id: /government/news/skills-dialogue-event-in-mexico
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -54,6 +58,8 @@ questions:
     College</a></h2><p>Administered status and inadequate inspection issued to Easton
     and Otley College by the Education and Skills Funding Agency. </p>'
   id: /government/publications/administered-status-and-inadequate-inspection-easton-and-otley-college
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -78,6 +84,8 @@ questions:
     competition</a></h2><p>EFA contractors framework preparation and procurement documents
     and templates for invitation to tender (ITT) stage.</p>'
   id: /government/publications/efa-contractors-framework-invitation-to-tender-itt-for-local-competition
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -98,6 +106,8 @@ questions:
     report outlines findings from secondary analysis of a dataset from interviews
     with individuals who were in long-term relationships.</p>
   id: /government/publications/relationship-difficulties-and-help-seeking-behaviour
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -117,6 +127,8 @@ questions:
     for schools and local authorities about managing NCA tools passwords and accounts
     for the 2018 to 2019 test cycle.</p>'
   id: /guidance/nca-tools-managing-access-and-troubleshooting
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -136,6 +148,8 @@ questions:
     target='_blank'>Michael Gove to Cambridge University</a></h2><p>The Secretary
     of State's speech to Cambridge University on a liberal education.</p>
   id: /government/speeches/michael-gove-to-cambridge-university
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -159,6 +173,8 @@ questions:
     target='_blank'>Michael Gove speaks to the Royal Society on maths and science</a></h2><p>Education
     Secretary Michael Gove speaks to the Royal Society.</p>
   id: /government/speeches/michael-gove-speaks-to-the-royal-society-on-maths-and-science
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -180,6 +196,8 @@ questions:
     warning notice issued to the members and directors of Marine Academy Plymouth
     by the Department for Education.</p>
   id: /government/publications/warning-notice-to-the-marine-academy-plymouth
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -201,6 +219,8 @@ questions:
     the moment</a></h2><p>Matthew Coffey highlighted the state of prison education
     in the Ofsted further education and skills annual lecture 2013.</p>'
   id: /government/speeches/ofsted-further-education-and-skills-annual-lecture-2013-seizing-the-moment
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -222,6 +242,8 @@ questions:
     information to ESFA-funded colleges, other training organisations and direct grant
     employers.</p>'
   id: /government/publications/esfa-update-february-2018
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -242,6 +264,8 @@ questions:
     \ target='_blank'>Team UK champions celebrate their success</a></h2><p>Team UK\
     \ on their return from WorldSkills competition in S\xE3o Paulo 2015.</p>"
   id: /government/news/team-uk-champions-celebrate-their-success
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -263,6 +287,8 @@ questions:
     information to SFA-funded colleges, other training organisations and direct grant
     employers.</p>'
   id: /government/publications/sfa-update-march-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -284,6 +310,8 @@ questions:
     information to ESFA-funded colleges, other training organisations and direct grant
     employers.</p>'
   id: /government/publications/esfa-update-july-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -305,6 +333,8 @@ questions:
     Universities Minister is calling on all institutions to accept the IHRA definition
     of antisemitism and step up to tackle religious-based hate.</p>
   id: /government/news/universities-told-to-stamp-out-antisemitism-on-campus
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -325,6 +355,8 @@ questions:
     target=''_blank''>SFA: locations</a></h2><p>The Skills Funding Agency has offices
     and locations throughout the country.</p>'
   id: /government/publications/sfa-locations
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -346,6 +378,8 @@ questions:
     \ and Skills Funding Agency\u2019s monthly round-up of business-critical information\
     \ and news for businesses.</p>"
   id: /government/publications/skills-funding-agency-business-update
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -367,6 +401,8 @@ questions:
     information to ESFA-funded colleges, other training organisations and direct grant
     employers.</p>'
   id: /government/publications/esfa-update-april-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -383,6 +419,8 @@ questions:
     target='_blank'>International Women in Engineering Day</a></h2><p>Sunday 23 June
     marked International Women in Engineering Day 2019 (INWED19).</p>
   id: /government/news/international-women-in-engineering-day
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -407,6 +445,8 @@ questions:
     target='_blank'>Lord Nash and Matthew Hancock write to Barnfield Federation</a></h2><p>A
     letter from Lord Nash and Matthew Hancock to the Barnfield Federation.</p>
   id: /government/publications/lord-nash-and-matthew-hancock-write-to-barnfield-federation
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -428,6 +468,8 @@ questions:
     information to ESFA-funded colleges, other training organisations and direct grant
     employers.</p>'
   id: /government/publications/esfa-update-january-2018
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -449,6 +491,8 @@ questions:
     information to ESFA-funded colleges, other training organisations and direct grant
     employers.</p>'
   id: /government/publications/esfa-update-november-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -473,6 +517,8 @@ questions:
     target=''_blank''>Ofsted inspections: Lord Nash writes to Baroness Jones</a></h2><p>A
     letter from Lord Nash to Baroness Jones about Ofsted inspections.</p>'
   id: /government/publications/ofsted-inspections-lord-nash-writes-to-baroness-jones
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -494,6 +540,8 @@ questions:
     bodies, listed bodies, recognised universities, accredited higher learning institutions,
     bogus degrees</p>
   id: /check-a-university-is-officially-recognised
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -514,6 +562,8 @@ questions:
     target='_blank'>Free speech in the liberal university</a></h2><p>A speech by Jo
     Johnson at the Limmud Conference, Birmingham, 26 December 2017</p>
   id: /government/speeches/free-speech-in-the-liberal-university
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -537,6 +587,8 @@ questions:
     \u5E9C\u734E\u5B78\u91D1\u5373\u65E5\u8D77\u958B\u653E\u7533\u8ACB\uFF0C\u671F\
     \u9650\u81F311\u67086\u65E5\u70BA\u6B62\u3002</p>"
   id: /government/news/201920-chevening
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -560,6 +612,8 @@ questions:
     and secondary school appeals lodged by parents against non-admission of their
     children to their preferred school.</p>'
   id: /government/statistics/admission-appeals-for-maintained-primary-and-secondary-schools-in-england-academic-year-2009-to-2010
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -583,6 +637,8 @@ questions:
     and academy primary and secondary school admission appeals relating to the start
     of the 2014 to 2015 academic year.</p>'
   id: /government/statistics/admissions-appeals-in-england-academic-year-2014-to-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -606,5 +662,7 @@ questions:
     and secondary school appeals lodged by parents against non-admission of their
     children to their preferred school.</p>'
   id: /government/statistics/admission-appeals-in-maintained-primary-and-secondary-schools-in-england-academic-year-2010-to-2011
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
