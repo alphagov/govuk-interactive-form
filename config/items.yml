@@ -12,7 +12,15 @@ default: &default
   health:
     start_page_title: "Help us improve our topic tagging"
     start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
-
+  money_gds:
+    start_page_title: "Help us improve our topic tagging"
+    start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+  education_gds:
+    start_page_title: "Help us improve our topic tagging"
+    start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+  health_gds:
+    start_page_title: "Help us improve our topic tagging"
+    start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
 
 
 development:
