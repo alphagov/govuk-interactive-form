@@ -12,6 +12,8 @@ questions:
     \ TV Series \"The Crown\" to independent theatre productions and video games,\
     \ the 2016-17 tax relief supported work across the UK's creative industries.</p>"
   id: /government/news/creative-sector-receives-record-boost-of-700-million-pounds
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -30,6 +32,8 @@ questions:
     \ will donate amount equivalent to expected VAT receipts from sale of the poppies\
     \ using some of LIBOR fines collected from banks.</p>"
   id: /government/news/chancellor-to-waive-1-million-vat-on-tower-of-london-poppies
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -48,6 +52,8 @@ questions:
     \ announces</a></h2><p>Government to waive VAT on sales of the X-Factor winner\u2019\
     s charity single</p>"
   id: /government/news/x-factor-winners-charity-single-to-be-vat-free-chancellor-announces
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -65,6 +71,8 @@ questions:
     target='_blank'>Alcohol and tobacco taxation revenue</a></h2><p>The Treasury responds
     to a request for information on alcohol and tobacco taxation revenue.</p>
   id: /government/publications/alcohol-and-tobacco-taxation-revenue
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -80,6 +88,8 @@ questions:
     under 16 will join under 12s in no longer having to pay Air Passenger Duty in
     economy class. </p>
   id: /government/news/boost-for-family-finances-as-easter-getaway-begins
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -97,6 +107,8 @@ questions:
     target='_blank'>OTS looks to recruit senior policy advisors</a></h2><p>OTS invites
     applications for posts</p>
   id: /government/news/ots-looks-to-recruit-senior-policy-advisors
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -115,6 +127,8 @@ questions:
     George Osborne has today agreed to waive VAT on sales of the Band Aid anniversary
     single.</p>
   id: /government/news/chancellor-to-waive-vat-on-band-aid-anniversary-single
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -131,6 +145,8 @@ questions:
     in 2013, shows such as Game of Thrones and Downton Abbey have been able to claim.
     </p>'
   id: /government/news/the-story-of-your-boxing-day-boxset-record-tax-relief-for-big-budget-tv
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -149,6 +165,8 @@ questions:
     on the number of tax credits claims and the amount paid for Film, High-end Television
     and Animation Tax Relief.</p>
   id: /government/statistics/announcements/creative-industries-statistics
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -167,6 +185,8 @@ questions:
     \ from sales of the single will be donated to two children\u2019s charities, Together\
     \ for Short Lives and Shooting Star Chase. </p>"
   id: /government/news/government-to-donate-vat-on-x-factor-charity-single
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -181,6 +201,8 @@ questions:
     target='_blank'>Record year for UK film industry tax relief</a></h2><p>220 films
     were made in the UK in 2014 to 2015 thanks to the UK film tax relief. </p>
   id: /government/news/record-year-for-uk-film-industry-tax-relief
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -199,6 +221,8 @@ questions:
     of Venture Capital Trust (VCT) scheme investors and amount of invesment claimed
     for tax years ending 2012 to 2014.</p>
   id: /government/statistics/announcements/venture-capital-trusts-distribution-of-numbers
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -216,6 +240,8 @@ questions:
     target='_blank'>Capital Gains Tax</a></h2><p>Provides breakdowns of the number
     of capital gains taxpayers, gains and tax accruals (liabilities) by year of disposal.</p>
   id: /government/statistics/announcements/capital-gains-tax-statistics--3
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -228,6 +254,8 @@ questions:
     football clubs who fail to pay staff the National Minimum Wage (NMW) can expect
     HMRC to take action against them, the department announced today.</p>
   id: /government/news/football-in-focus-on-underpaid-workers
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -245,6 +273,8 @@ questions:
     target='_blank'>Arweiniad a thaflenni gwybodaeth CThEM</a></h2><p>Arweiniad, taflenni,
     taflenni gwybodaeth a llyfrynnau a gyhoeddwyd gan Gyllid a Thollau EM.</p>
   id: /guidance/arweiniad-a-thaflenni-gwybodaeth-cthem
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -262,6 +292,8 @@ questions:
     target=''_blank''>Betting and Gaming bulletin: September 2017</a></h2><p>Monthly
     statistics on Betting and Gaming receipts and stakes.</p>'
   id: /government/statistics/announcements/betting-and-gaming-bulletin-september-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -273,6 +305,8 @@ questions:
     \ target='_blank'>Press briefing: morning 14 March 2014</a></h2><p>The Prime Minister\u2019\
     s Spokesperson (PMS) answered questions on Ukraine, Syria, tax and Scotland.</p>"
   id: /government/news/press-briefing-morning-14-march-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -290,6 +324,8 @@ questions:
     target=''_blank''>Tax allowances and reliefs in force: cost not known</a></h2><p>Tax
     allowances and reliefs in force in but where the cost is not known</p>'
   id: /government/statistics/announcements/tax-allowances-and-reliefs-in-force-cost-not-known--2
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -303,6 +339,8 @@ questions:
     smuggling and tax fraud are being asked to call a Customs Hotline with any information
     that could lead to arrests or seizures. </p>
   id: /government/news/fugitive-jailed-as-expatriates-in-spain-urged-to-report-tobacco-smugglers
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -321,6 +359,8 @@ questions:
     on sales of the Christmas single in memory of late MP Jo Cox will be donated to
     charity, the Chancellor has announced.</p>
   id: /government/news/chancellor-waives-vat-on-jo-cox-charity-single
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -336,6 +376,8 @@ questions:
     raised</a></h2><p>The number of Venture Capital Trust companies raising funds
     and the amounts raised for tax years ending 1996 to 2015.</p>'
   id: /government/statistics/announcements/venture-capital-trusts-number-of-trusts-and-amount-of-funds-raised
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -357,6 +399,8 @@ questions:
     to exchange information</a></h2><p>A list of countries that support the initiative
     to systematically share information on beneficial ownership.</p>'
   id: /government/publications/beneficial-ownership-countries-that-have-pledged-to-exchange-information
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -375,6 +419,8 @@ questions:
     out which items you can or cannot claim a VAT refund for under the DIY Housebuilders'
     Scheme.</p>
   id: /guidance/goods-and-services-you-can-claim-for-under-the-vat-diy-scheme
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -392,6 +438,8 @@ questions:
     target='_blank'>Animals and animal food (VAT Notice 701/15)</a></h2><p>Find out
     which live animals and animal foods or feeding stuffs are zero-rated for VAT.</p>
   id: /guidance/animals-and-animal-food-notice-70115
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -409,6 +457,8 @@ questions:
     target=''_blank''>First time users: how to download and install Basic PAYE Tools</a></h2><p>Step-by-step
     help on downloading and installing Basic PAYE Tools onto your computer.</p>'
   id: /government/publications/basic-paye-tools-first-time-users-download-and-install
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -427,6 +477,8 @@ questions:
     \ this guide if you\u2019re having problems running Basic PAYE Tools on a Linux\
     \ operating system and need help to install the files.</p>"
   id: /government/publications/getting-basic-paye-tools-working-on-linux
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -449,6 +501,8 @@ questions:
     \ a\u2019r iaith Saesneg yn gyfartal wrth ddarparu gwasanaethau cyhoeddus yng\
     \ Nghymru.</p>"
   id: /government/collections/gwybodaeth-gorfforaethol-ac-adroddiadau
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -470,6 +524,8 @@ questions:
     information and impact note applies to companies that carry out R&D into prescribed
     types of vaccine and other medicine.</p>'
   id: /government/publications/vaccine-research-relief-expiry-in-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -487,6 +543,8 @@ questions:
     \ target='_blank'>VAT Women\u2019s Sanitary Products</a></h2><p>Guidance on the\
     \ reduced rate for women's sanitary products</p>"
   id: /hmrc-internal-manuals/vat-womens-sanitary-products
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -505,6 +563,8 @@ questions:
     out which drinks are liable for the Soft Drinks Industry Levy, and how much you
     may need to pay.</p>
   id: /guidance/check-if-your-drink-is-liable-for-the-soft-drinks-industry-levy
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -522,6 +582,8 @@ questions:
     target='_blank'>Gwe-rwydo a sgamiau</a></h2><p>Cyngor ar ddiogelwch gan Gyllid
     a Thollau EM i'ch helpu i gadw'n ddiogel ar-lein wrth ddelio gyda ni.</p>
   id: /government/collections/gwe-rwydo-a-sgamiau
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -541,6 +603,8 @@ questions:
     \ video games, children\u2019s television, theatre, orchestra, and museums and\
     \ galleries exhibitions.</p>"
   id: /government/collections/creative-industries-statistics
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -559,6 +623,8 @@ questions:
     Trust Fund (CTF) providers about annual subscription limits, The Share Foundation,
     and requests to reverse CTF subscriptions.</p>'
   id: /government/publications/child-trust-fund-ctf-bulletin-84
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -577,6 +643,8 @@ questions:
     helpsheet HS234)</a></h2><p>Find information about the averaging tax relief available
     for authors or artists. </p>
   id: /government/publications/averaging-for-creators-of-literary-or-artistic-works-hs234-self-assessment-helpsheet
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -594,6 +662,8 @@ questions:
     target=''_blank''>Fuel Duty: Fuel additives and extenders</a></h2><p>Fuel additives
     and extenders and the warehousing of bioethanol used in the production of biodiesel.</p>'
   id: /government/publications/fuel-duty-fuel-additives-and-extenders
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -613,6 +683,8 @@ questions:
     is about aqua methanol set aside for use, or used, as fuel in any engine, motor
     or machinery.</p>'
   id: /government/publications/fuel-duty-aqua-methanol-set-aside-for-use-or-used-as-fuel-in-any-engine-motor-or-machinery
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -630,5 +702,7 @@ questions:
     target='_blank'>Obsolete miscellaneous Statements of Practice</a></h2><p>List
     of miscellaneous obsolete Statements of Practice.</p>
   id: /government/publications/obsolete-miscellaneous-statements-of-practice
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''

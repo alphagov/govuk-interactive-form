@@ -13,7 +13,7 @@
   <div class="hidden more-detail">
     <%= render "govuk_publishing_components/components/textarea", {
       label: {
-          text: "Optionally, provide more detail on your decision"
+          text: item['more_detail_prompt']
       },
       name: "answer[explanation]",
       rows: 2,

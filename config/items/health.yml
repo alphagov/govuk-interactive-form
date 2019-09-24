@@ -16,6 +16,8 @@ questions:
     a new stop smoking campaign officially kicks off today with support from celebrities
     nationwide.</p>
   id: /government/news/celebrities-put-the-stop-into-stoptober
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -35,6 +37,8 @@ questions:
     \ on the difference in employees\u2019 average earnings from April 2016 to March\
     \ 2017.</p>"
   id: /government/publications/department-of-health-gender-pay-gap-report-and-data-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -52,6 +56,8 @@ questions:
     \ to and including 1982.\_ Scottish Power issued a dangerous incident notice as\
     \ well as a suspension of operation practice in November.</p>"
   id: /government/news/reyrolle-rok-and-rokss-ring-main-units-alert
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -68,6 +74,8 @@ questions:
     \ from the Met Office has changed.\n\nThe Cold Weather Plan alert issued on 8\
     \ December, has therefore now reverted to Level 1 across\u2026</p>"
   id: /government/news/cold-weather-plan-alert-level-lowered
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -84,6 +92,8 @@ questions:
     2014</a></h2><p>Official statistics are produced impartially and free from any
     political influence.</p>'
   id: /government/statistics/female-genital-mutilation-experimental-statistics-october-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -100,6 +110,8 @@ questions:
     \ a Level 3 alert issued on 13 January 2013, temperatures have now fallen across\
     \ England and the Cold Weather Plan alert indicator has\u2026</p>"
   id: /government/news/cold-weather-plan-alert-lowered-to-level-1
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -116,6 +128,8 @@ questions:
     of cross-border disputes and court of session judgement on the matter of Milton
     Keynes v Scottish Ministers.</p>'
   id: /government/publications/ordinary-residence-disputes-milton-keynes-v-scottish-ministers
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -135,6 +149,8 @@ questions:
     \ a safe way to watch the Transit of Venus. People could permanently damage their\
     \ eyesight and even risk blindness if they look directly \u2026</p>"
   id: /government/news/don-t-look-straight-at-the-sun-on-6-june
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -151,6 +167,8 @@ questions:
     \ to the level alert 2 issued on 12 January, the levels across England have now\
     \ reverted to Level 1\n\nGuidance on Cold Weather Alert threshhold\u2026</p>"
   id: /government/news/cold-weather-plan-reversion-to-level-1-alert--2
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -166,6 +184,8 @@ questions:
     target='_blank'>National Patient Safety Agency (Amendment No.2) Directions</a></h2><p>Amendments
     to Direction 2 of the Principal Directions.</p>
   id: /government/news/national-patient-safety-agency-amendment-no-2-directions
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -184,6 +204,8 @@ questions:
     target=''_blank''>Ordinary residence: anonymised determinations 2015</a></h2><p>Anonymised
     ordinary residence determinations for 2015. </p>'
   id: /government/publications/ordinary-residence-anonymised-determinations-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -206,6 +228,8 @@ questions:
     talks about the stigma of suicide, particularly among the young men who are most
     at risk. </p>
   id: /government/speeches/world-suicide-prevention-day
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -227,6 +251,8 @@ questions:
     target='_blank'>Ordinary residence anonymised determinations from 2006 to 2011</a></h2><p>Ordinary
     residence anonymised determinations from 2006 to 2011.</p>
   id: /government/publications/ordinary-residence-anonymised-determinations-from-2006-to-2011
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -246,6 +272,8 @@ questions:
     LAC (DH)(2015)3 sets out the updated interest rate for deferred payment agreements
     (DPAs) for 1 July 2015 to 31 December 2015. </p>'
   id: /government/publications/interest-on-deferred-payment-agreements-july-to-december-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -261,6 +289,8 @@ questions:
     target='_blank'>Child Support Agency Quarterly Summary of Statistics - June 2014</a></h2><p>Statistics
     from the Child Support Agency.</p>
   id: /government/statistics/announcements/child-support-agency-quarterly-summary-of-statistics-june-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -282,6 +312,8 @@ questions:
     target='_blank'>High Commissioner visits victims of attack</a></h2><p>Dr. Christian
     Turner visited victims of the Westgate atrocity </p>
   id: /government/news/high-commissioner-visits-victims-of-attack
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -303,6 +335,8 @@ questions:
     target=''_blank''>Ordinary residence: anonymised determinations 2012</a></h2><p>Ordinary
     residence determinations from 2012.</p>'
   id: /government/publications/ordinary-residence-anonymised-determinations-2012
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -325,6 +359,8 @@ questions:
     paid his respects to Nelson Mandela by signing the book of condolence at South
     Africa House.</p>'
   id: /government/news/nelson-mandela-tribute-nick-clegg--2
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -346,6 +382,8 @@ questions:
     target='_blank'>Consular briefing for British nationals in Ukraine</a></h2><p>British
     nationals are invited to the British Embassy Kyiv</p>
   id: /government/news/consular-briefing-for-british-nationals-in-ukraine-3
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -361,6 +399,8 @@ questions:
     target=''_blank''>Bed availability and occupancy: quarter ending September 2014</a></h2><p>Bed
     availability and bed occupancy.</p>'
   id: /government/statistics/announcements/bed-availability-and-occupancy-quarter-ending-september-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -375,6 +415,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-15th-february-2015'
     target='_blank'>Winter Situation Report, week ending 15th February 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
   id: /government/statistics/announcements/winter-situation-report-week-ending-15th-february-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -391,6 +433,8 @@ questions:
     from reviews'' publications bring together lessons from the panel''s full reviews
     and initial assessments.</p>'
   id: /government/collections/irp-learning-from-reviews
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -407,6 +451,8 @@ questions:
     picture of health issues related to smoking, smoking habits, behaviour and attitudes,
     smoking related ill-health and mortality and smoking related costs.</p>'
   id: /government/statistics/smoking-statistics-in-england-2014--2
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -426,6 +472,8 @@ questions:
     \ presented at a 3-character level that consists of a letter followed by two numbers\
     \ and are accompanied by a complete description of the operation group.\r\n</p>"
   id: /government/statistics/announcements/episode-based-acute-activity-operations-201314
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -440,6 +488,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-three-weeks-ending-4-january-2015'
     target='_blank'>Winter Situation Report, three weeks ending 4 January 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
   id: /government/statistics/announcements/winter-situation-report-three-weeks-ending-4-january-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -454,6 +504,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-11th-january'
     target='_blank'>Winter Situation Report, week ending 11th January 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
   id: /government/statistics/announcements/winter-situation-report-week-ending-11th-january
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -468,6 +520,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-22nd-february-2015'
     target='_blank'>Winter Situation Report, week ending 22nd February 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
   id: /government/statistics/announcements/winter-situation-report-week-ending-22nd-february-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -490,6 +544,8 @@ questions:
     survey report presents information on the percentage of pupils who have ever smoked,
     tried alcohol or taken drugs and on their regular use.</p>
   id: /government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2018
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -512,6 +568,8 @@ questions:
     \ issue of a level 2 alert last week, the Met Office has reported that this has\
     \ now reverted to level 1 for areas in the North West,\u2026</p>"
   id: /government/news/cold-weather-plan-reversion-to-level-1-alert
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -526,6 +584,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-25th-january'
     target='_blank'>Winter Situation Report, week ending 25th January 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
   id: /government/statistics/announcements/winter-situation-report-week-ending-25th-january
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -544,6 +604,8 @@ questions:
     period and covers those injuries treated at A&E Departments and Minor Injuries
     Units.</p>'
   id: /government/statistics/fireworks-injuries-in-northern-ireland-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -566,6 +628,8 @@ questions:
     May spoke with Prince Mohammed bin Salman of Saudi Arabia about our close bilateral
     ties and efforts to resolve the situation in the Gulf region. </p>
   id: /government/news/pm-call-with-hrh-prince-mohammed-bin-salman-of-saudi-arabia
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -582,6 +646,8 @@ questions:
     2014</a></h2><p>Newly identified cases of FGM and active caseload. England and
     commissioning regions.</p>'
   id: /government/statistics/female-genital-mutilation-experimental-statistics-december-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -597,6 +663,8 @@ questions:
     target='_blank'>A&E Attendances and Emergency Admissions, week ending 4 January
     2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/weekly-ae-sitreps-2014-15/</p>
   id: /government/statistics/announcements/ae-attendances-and-emergency-admissions-week-ending-4-january-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -619,6 +687,8 @@ questions:
     survey report presents information on the percentage of pupils who have ever smoked,
     tried alcohol or taken drugs and on their regular use.</p>
   id: /government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2016
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -633,6 +703,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-18th-january'
     target='_blank'>Winter Situation Report, week ending 18th January 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
   id: /government/statistics/announcements/winter-situation-report-week-ending-18th-january
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -648,6 +720,8 @@ questions:
     target=''_blank''>Morecambe Bay Investigation: open interview records</a></h2><p>Records
     from the Morecambe Bay Investigation open interview sessions.</p>'
   id: /government/publications/morecambe-bay-investigation-open-interview-records
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -664,6 +738,8 @@ questions:
     'Learning from reviews' series examining lessons from the panel's full reviews
     and initial assessments.</p>
   id: /government/publications/learning-from-reviews-second-edition
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -680,6 +756,8 @@ questions:
     of Female Genital Mutilation (FGM) added to the FGM Enhanced Dataset collection
     platform between 1 April 2017 and 30 June 2017. England. </p>
   id: /government/statistics/female-genital-mutilation-apr-to-jun-2017-experimental-statistics
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -695,6 +773,8 @@ questions:
     \ target='_blank'>Marwolaethau yn ymwneud ag MRSA, Cyrmu, 2014</a></h2><p>Marwolaethau\
     \ MRSA yng Nghymru yn 2014, yn \xF4l rhyw, gr\u0175p oedran a lleoliad y farwolaeth.</p>"
   id: /government/statistics/announcements/marwolaethau-yn-ymwneud-ag-mrsa-cyrmu-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -711,6 +791,8 @@ questions:
     'Learning from reviews' series examining lessons from the panel's full reviews
     and initial assessments.</p>
   id: /government/publications/learning-from-reviews-first-edition
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -725,6 +807,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-8th-february'
     target='_blank'>Winter Situation Report, week ending 8th February 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
   id: /government/statistics/announcements/winter-situation-report-week-ending-8th-february
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -740,6 +824,8 @@ questions:
     \ target='_blank'>Take a tour of Monitor\u2019s new website</a></h2><p>Monitor\u2019\
     s website has moved to GOV.UK/monitor. </p>"
   id: /government/news/take-a-tour-of-monitors-new-website
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -765,6 +851,8 @@ questions:
     focuses on different behaviours in different years, alternating between smoking
     and drinking one year, to drug use the next.</p>'
   id: /government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2013
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -779,6 +867,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/statistics/announcements/winter-situation-report-week-ending-1st-february'
     target='_blank'>Winter Situation Report, week ending 1st February 2015</a></h2><p>http://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/</p>
   id: /government/statistics/announcements/winter-situation-report-week-ending-1st-february
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -806,6 +896,8 @@ questions:
 
     </p>'
   id: /government/news/question-3-how-relevant-was-the-information
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -831,6 +923,8 @@ questions:
     focuses on different behaviours in different years, alternating between smoking
     and drinking one year, to drug use the next.</p>'
   id: /government/statistics/smoking-drinking-and-drug-use-among-young-people-in-england-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -850,6 +944,8 @@ questions:
     has been jailed for 30 years for smuggling millions of pounds worth of drugs into
     the UK, following an investigation by the UK Border Agency.</p>
   id: /government/news/multi-million-pound-drug-smuggler-gets-30-years
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -868,6 +964,8 @@ questions:
     target='_blank'>Christmas and New Year opening times</a></h2><p>Details of MHRA's
     festive opening times. </p>
   id: /government/news/christmas-and-new-year-opening-times--2
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -887,6 +985,8 @@ questions:
     tips for people going to the Rio Olympics from Chief Medical Officer Professor,
     Dame Sally Davies.</p>
   id: /government/news/health-advice-for-people-travelling-to-a-zika-affected-area
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -906,6 +1006,8 @@ questions:
     \ for cosmetic tanning: how to minimise exposure to ultraviolet radiation (UVR).\r\
     \n</p>"
   id: /government/publications/sunbeds-safety-advice
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -925,6 +1027,8 @@ questions:
     \ summaries of the winter health watch indicators for the 2015 to 2016 season.\r\
     \n</p>"
   id: /government/publications/winter-health-watch-summary-31-march-2016
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -945,6 +1049,8 @@ questions:
     screening with introduction by Angelina Jolie, at ExCel London 17.30pm Wednesday
     11 June.</p>
   id: /government/news/exclusive-screening-of-in-the-land-of-blood-and-honey-introduced-by-director-angelina-jolie
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -965,6 +1071,8 @@ questions:
     drinking habits and behaviours, drinking related ill health and mortality, affordability
     of alcohol and alcohol related costs.</p>'
   id: /government/statistics/statistics-on-alcohol-england-2014-additional-tables--2
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -983,6 +1091,8 @@ questions:
     target=''_blank''>Stroke statistics update: February 2015 update</a></h2><p>Stroke
     Statistics update.</p>'
   id: /government/statistics/stroke-statistics-update-february-2015-update
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1002,6 +1112,8 @@ questions:
     have been detected since 2014 and Greece is therefore now considered to be no
     risk for rabies.</p>
   id: /government/news/rabies-in-northern-greece
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1021,6 +1133,8 @@ questions:
     to the process of making an appeal, as part of the payment scheme for former British
     child migrants.</p>'
   id: /guidance/payment-scheme-for-former-british-child-migrants-appeal-process
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1040,6 +1154,8 @@ questions:
     their mother</a></h2><p>The Longitudinal Study estimates the number of children
     who lose a mother before they reach the age of 16 years old.</p>
   id: /government/statistics/children-aged-under-16-years-who-have-experienced-the-death-of-their-mother
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1058,6 +1174,8 @@ questions:
     target=''_blank''>Winter health watch: weekly summaries 2014 to 2015</a></h2><p>Weekly
     summaries of the winter health watch indicators for the 2014 to 2015 season.</p>'
   id: /government/publications/winter-health-watch-summary-26-march-2015
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1077,6 +1195,8 @@ questions:
     \ new Public Health England (PHE) e-cigarette evidence review, undertaken by leading\
     \ independent tobacco experts, provides an update on PHE\u2019s 2015 review.</p>"
   id: /government/news/phe-publishes-independent-expert-e-cigarettes-evidence-review
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1095,6 +1215,8 @@ questions:
     \ target='_blank'>Public Health Responsibility Deal announces new food pledge</a></h2><p>A\
     \ new Public Health Responsibility Deal\_pledge on calorie reduction</p>"
   id: /government/news/public-health-responsibility-deal-announces-new-food-pledge
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1114,6 +1236,8 @@ questions:
     to avoid exposure to the sun</a></h2><p>The ICC Cricket World Cup is taking place
     in Australia and New Zealand from 14 February to 28 March 2015.</p>
   id: /government/news/phe-and-nathnac-advise-fans-going-to-the-icc-cricket-world-cup-to-avoid-exposure-to-the-sun
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1133,6 +1257,8 @@ questions:
     month of fasting, during which time Muslims do not eat or drink during daylight
     hours.</p>
   id: /government/news/healthy-fasting-during-ramadan
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1152,6 +1278,8 @@ questions:
     of well-being indicators for young people (aged 16 to 24) in the UK including
     health, environment, personal finances and crime.</p>
   id: /government/statistics/young-peoples-well-being-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1170,6 +1298,8 @@ questions:
     target=''_blank''>Deaths registered in England and Wales, provisional: week ending
     16 Mar 2018</a></h2><p>Number of deaths registered in the latest week.</p>'
   id: /government/statistics/announcements/deaths-registered-in-england-and-wales-provisional-week-ending-16-mar-2018
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1189,6 +1319,8 @@ questions:
     women advised to postpone non-essential travel to areas with active Zika virus
     transmission.</p>'
   id: /government/news/zika-virus-updated-travel-advice-for-pregnant-women
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1207,6 +1339,8 @@ questions:
     target=''_blank''>Winter health watch: weekly summaries 2017 to 2018</a></h2><p>Weekly
     summaries of the winter health watch indicators for the 2017 to 2018 season.</p>'
   id: /government/publications/winter-health-watch-weekly-summaries-2017-to-2018
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1226,6 +1360,8 @@ questions:
     \ equipment</a></h2><p>This alert highlights the potential failure of the Schneider\
     \ Electric (Merlin Gerin) Ringmaster RN2c, RE2c and RN6c ring main units.</p>"
   id: /government/news/estates-and-facilities-alert-potential-failure-of-high-voltage-equipment
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1245,6 +1381,8 @@ questions:
     fresh concerns about vitamin D deficiency, the UK's 4 Chief Medical Officers have
     written to health professionals reminding them about this issue.</p>
   id: /government/news/dangers-of-vitamin-d-deficiency-highlighted
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1263,6 +1401,8 @@ questions:
     target=''_blank''>Electric and magnetic fields: reducing exposure</a></h2><p>Safety
     advice on electric and magnetic fields in our homes and near power lines.</p>'
   id: /government/publications/electric-and-magnetic-fields-reducing-exposure
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1281,6 +1421,8 @@ questions:
     target=''_blank''>Female genital mutilation: September 2014</a></h2><p>Female
     Genital Mutilation Prevalence.</p>'
   id: /government/statistics/female-genital-mutilation-prevalence-october-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1300,6 +1442,8 @@ questions:
     minister James Brokenshire has warned of the severe consequnces of smuggling drugs
     when he visited Sarita Colonia jail in Peru.</p>
   id: /government/news/minister-sees-consequences-of-drug-smuggling
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1319,6 +1463,8 @@ questions:
     Health England issues advice to help people take care of themselves during the
     flu season.</p>
   id: /government/news/surviving-the-cold-and-flu-season-without-antibiotics
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1338,6 +1484,8 @@ questions:
     shops will no longer be able to display tobacco products to the public from 6
     April 2012.</p>
   id: /government/news/tobacco-displays-in-supermarkets-to-be-removed-by-6-april
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1356,6 +1504,8 @@ questions:
     target='_blank'>Parallel import licenses granted in August 2017</a></h2><p>Parallel
     import licenses granted in August 2017.</p>
   id: /government/publications/parallel-import-licenses-granted-in-august-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1375,6 +1525,8 @@ questions:
     \ Change4Life campaign encourages parents to 'look for 100-calorie snacks, two\
     \ a day max' to cut children\u2019s sugar intake.</p>"
   id: /government/news/phe-launches-change4life-campaign-around-childrens-snacking
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1393,6 +1545,8 @@ questions:
     how to spot and report the disease in animals</a></h2><p>How to spot rabies, what
     to do if you suspect it and measures to prevent its spread.</p>'
   id: /guidance/rabies
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1410,6 +1564,8 @@ questions:
   content: <h2><a href='https://www.gov.uk/government/news/mhra-network-outage' target='_blank'>MHRA
     network outage - now resolved</a></h2><p>The following is a service update.</p>
   id: /government/news/mhra-network-outage
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1428,6 +1584,8 @@ questions:
     target=''_blank''>Beat the Street: getting communities moving</a></h2><p>Beat
     the Street energises whole communities, using a simple game to get people moving.</p>'
   id: /government/case-studies/beat-the-street-getting-communities-moving
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1447,6 +1605,8 @@ questions:
     awareness of non-lump breast cancer symptoms is putting the health of women over
     70 at risk.</p>
   id: /government/news/public-health-england-launches-nationwide-breast-cancer-campaign
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1466,6 +1626,8 @@ questions:
     proportion of new mothers who are still breastfeeding after 2 months drops by
     40%, according to data from PHE and NHS England.</p>
   id: /government/news/new-survey-of-mums-reveals-perceived-barriers-to-breastfeeding
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1485,6 +1647,8 @@ questions:
     forecasts for parts of England have prompted warnings to take care from Public
     Health England (PHE).</p>'
   id: /government/news/hot-weather-health-warnings-2018
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1503,6 +1667,8 @@ questions:
     target='_blank'>Salmonella by age group and year</a></h2><p>Epidemiological for
     salmonella cases recorded by age group and year.</p>
   id: /government/publications/salmonella-by-age-group-and-year
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1522,6 +1688,8 @@ questions:
     \ diets</a></h2><p>Public Health England (PHE) follow recommendations of independent\
     \ carbohydrates and health report, including halving sugar consumption. </p>"
   id: /government/news/phe-urges-parents-to-cut-sugary-drinks-from-childrens-diets
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1541,6 +1709,8 @@ questions:
     on exposure to electric and magnetic fields that come from electrical appliances
     and power lines.</p>'
   id: /government/publications/electric-and-magnetic-fields-sources-and-exposure
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1559,6 +1729,8 @@ questions:
     target='_blank'>Reptiles pose a risk of salmonella infection</a></h2><p>PHE advise
     maintaining hand hygiene when handling snakes to avoid getting a salmonella infection.</p>
   id: /government/news/reptiles-pose-a-risk-of-salmonella-infection
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1577,6 +1749,8 @@ questions:
     target='_blank'>Episode based acute activity - HRG4 2014/15</a></h2><p>Episode
     based acute activity - HRG4 2014/15</p>
   id: /government/statistics/episode-based-acute-activity-hrg4-201415
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1595,6 +1769,8 @@ questions:
     target=''_blank''>Winter health watch: weekly summaries 2016 to 2017</a></h2><p>Weekly
     summaries of the winter health watch indicators for the 2016 to 2017 season.</p>'
   id: /government/publications/winter-health-watch-summary-30-march-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1614,6 +1790,8 @@ questions:
     NPS</a></h2><p>This circular concerns the laying of a temporary class drug order
     in respect of 5 methylphenidate-based novel psychoactive substances (NPS). </p>'
   id: /government/publications/circular-0152015-temporary-control-of-5-methylphenidate-based-nps
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1633,6 +1811,8 @@ questions:
     to ultraviolet radiation (UVR) constitutes a significant health risk to people,
     with the sun being the main source of UVR for most. </p>'
   id: /government/publications/ultraviolet-radiation-uvr-clothing-protection
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1652,6 +1832,8 @@ questions:
     Royal Highness The Prince Edward, Earl of Wessex, and Her Royal Highness The Countess
     of Wessex, will visit Sri Lanka from 31 January to 4 February 2018.</p>
   id: /government/news/the-earl-and-countess-of-wessex-to-visit-sri-lanka
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1671,6 +1853,8 @@ questions:
     among adults including the proportion of people who smoke, their demographic breakdowns,
     changes over time, and e-cigarettes.</p>'
   id: /government/statistics/adult-smoking-habits-in-the-uk-2018
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1689,6 +1873,8 @@ questions:
     \ target='_blank'>Parallel import licences granted in March 2017</a></h2><p>\r\
     \nParallel import licences granted in March 2017</p>"
   id: /government/publications/parallel-import-licences-granted-in-march-2017
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1711,6 +1897,8 @@ questions:
     target='_blank'>ACMD correspondence</a></h2><p>This series brings together all
     documents relating to ACMD correspondence.</p>
   id: /government/collections/acmd-correspondence--2
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1730,6 +1918,8 @@ questions:
     s Spokesperson (PMS) answered questions on Maria Miller, Waitrose, plain packaging\
     \ and immigration.</p>"
   id: /government/news/press-briefing-morning-3-april-2014
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
 - answers:
@@ -1748,5 +1938,7 @@ questions:
     target=''_blank''>Wireless networks (wi-fi): radio waves and health</a></h2><p>Guidelines
     on exposure to radio signals from wireless networks (wi-fi).</p>'
   id: /government/publications/wireless-networks-wi-fi-radio-waves-and-health
+  key_to_show_more_detail_prompt: none
+  more_detail_prompt: Can you suggest a different topic or provide more detail?
   question: Which topic should the following page be tagged to?
   url: ''
