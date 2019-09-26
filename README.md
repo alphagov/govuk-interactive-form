@@ -22,36 +22,24 @@ You should then be able to visit `localhost:3000/example` to play with the examp
 
 The app a little config to set up your questions. 
 
-* Firstly, make a csv file with all your questions. It should have the following fields as headers
+* Firstly, make a YAML file with your set up and the questions you want to pose. Each question can have the following fields
 
-
-| id                                           | question                           | content                                                      | url                                                          |
-|----------------------------------------------|------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| ID of the question, can be numeric or string | The question put to the user       | HTML content that will help a user decide. Can be left blank | Optional URL to display in an iframe                         |
-| 1                                            | Are these search results relevant? |                                                              | https://www.gov.uk/search/all?keywords=taxid&order=relevance |
-|                                              | Is Ruby better than Python         | <p>Clearly, Ruby is superior.</p>                            |                                                              |
-
-* Now, make another CSV with the buttons that will be displayed to you users. Of the form:
-
-| text                                                                  | swipe_direction                                                                                                              |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Text to go in the button. This will be saved to the db as your answer | Direction the item should go to when chosen, value can be `left`, `right` or blank. Blank will result in the item fading out |
-| Yes                                                                   | right                                                                                                                        |
-| No                                                                    | left                                                                                                                         |
-| Maybe                                                                 |                                                                                                                              |
-
-* Put the files in the data directory.
-* Now in `config/items.yml` add references to your files.
+| id                                           | question                           | content                                                      | iframe_url                                                   | more_detail_prompt                                                                               | key_to_show_more_detail_prompt                                                                                                   | answers                                                                                                       |
+|----------------------------------------------|------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| ID of the question, can be numeric or string | The question put to the user       | HTML content that will help a user decide. Can be left blank | Optional. URL to display in an iframe                        | Optional. Prompt that will be shown to users above a textarea they can enter free form text with | Optional. They key of an answer that you want to show a textarea where they can enter more information about their decision with | Array of answers a user can select from to answer the question. Each must have an entry for 'key' and 'text'  |
+| 1                                            | Are these search results relevant? |                                                              | https://www.gov.uk/search/all?keywords=taxid&order=relevance | Please provide more detail on your decision                                                      |                                                                                                                                  |                                                                                                               |
+|                                              | Is Ruby better than Python         | <p>Clearly, Ruby is superior.</p>                            |                                                              |                                                                                                  |                                                                                                                                  |                                                                                                               |
+* The URL to access your questions will be whatever you name this file (eg `you-were-cool.yml` will result in the questions being available at `/you-were-cool`)
+* Now in `config/items.yml` add a reference to your questions by adding a 
 ```
 production:
-    name_for_my_questions:
-        item_file: "my_questions.csv"
-        answers_file: "my_answers.csv"
+    name-of-questions-file:
+        start_page_title: "Some text to be the title of the start page for my questions"
+        start_page_description: "Some HTML to be the description on the start page for my questions"
 ```
 
-Please note, it isn't necessary to include the `data/` prefix. You can also copy the example configuration and adapt to your needs.
 
-* Now you're ready to go! The `name_for_my_questions` field in the yaml file will now be available as an endpoint, so in this example you'd go to `localhost:3000/name_for_my_questions`
+* Now you're ready to go! The `name-of-questions-file` key in the items yaml file will now be available as an endpoint, so in this example you'd go to `localhost:3000/name-of-questions-file`
 * As users answer the questions, it'll create Answer records with all the relevant information, you can query the answers for your questions with something like `Answer.where(collection: "example")` 
 
 ## Reviewing answers
