@@ -55,3 +55,14 @@ Next, rename the file to 'database' and move it to the folder above your govuk-i
 Run `pg_restore -h localhost -d govuk_interactive_form_development ../database` to import the database into your local PG instance (you may need to add the database and set requisite user permissions first).
 
 Then you can run 'rake export_collection[name_for_my_questions_as_set_in_items.yml]' to export a raw csv of all the answers to your questions or 'rake export_decisions[name_for_my_questions_as_set_in_items.yml]' to get a tallied list of how many times each answer was given for each question. 
+
+## Authentication
+
+When the Rails environment is `production`, the application is protected by
+basic authentication. You can set the user name and password by creating the two
+expected environment variables on the Paas:
+
+```
+cf set-env govuk-interactive-form GOVUK_USERNAME <value>
+cf set-env govuk-interactive-form GOVUK_PASSWORD <value>
+```
