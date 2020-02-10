@@ -24,7 +24,6 @@ private
       cookies[items_key(@items_name)] = { value: rand(99999999999), expires: 2.weeks }
       cookies[index_key(@items_name)] = { value: 0, expires: 2.weeks }
     end
-    @items = YAML.load_file("config/items/#{@items_name}.yml")["questions"]
     # Shuffle in a reproducible fashion so if they return with the same cookie they'll get the same order
     seed = Random.new(cookies[items_key(@items_name)].to_i)
     @items.shuffle!(random: seed)
