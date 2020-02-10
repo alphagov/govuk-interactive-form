@@ -3,5 +3,4 @@
 
 require_relative 'config/application'
 
-task default: [:lint]
 Rails.application.load_tasks
