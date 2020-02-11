@@ -18,11 +18,17 @@ You should then be able to visit `localhost:3000/example` to play with the examp
 
 
 
-## Setting up
+## Adding a collection of questions
 
-The app a little config to set up your questions. 
+There is a little config to set up your questions. 
 
-* Firstly, make a YAML file with your set up and the questions you want to pose. Each question can have the following fields
+
+* Firstly, make a choice of whether or not you want to add them in a yaml file in the repo or put them in the database (which might be better for sensitive information). 
+
+### Adding questions in a yaml file
+
+* Make a YAML file with your set up and the questions you want to pose. Each question can have the following fields
+>>>>>>> Allow questions to be stored in the database rather than in the repo
 
 | id                                           | question                           | content                                                      | iframe_url                                                   | more_detail_prompt                                                                               | key_to_show_more_detail_prompt                                                                                                   | answers                                                                                                       |
 |----------------------------------------------|------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -30,17 +36,25 @@ The app a little config to set up your questions.
 | 1                                            | Are these search results relevant? |                                                              | https://www.gov.uk/search/all?keywords=taxid&order=relevance | Please provide more detail on your decision                                                      |                                                                                                                                  |                                                                                                               |
 |                                              | Is Ruby better than Python         | <p>Clearly, Ruby is superior.</p>                            |                                                              |                                                                                                  |                                                                                                                                  |                                                                                                               |
 * The URL to access your questions will be whatever you name this file (eg `you-were-cool.yml` will result in the questions being available at `/you-were-cool`)
+
+### Adding questions to the database
+
+* If you want to add questions to the database, follow the example as in `seeds.rb`
+
+### Add a reference to your questions to the app config
+
 * Now in `config/items.yml` add a reference to your questions by adding a 
 ```
 production:
     name-of-questions-file:
         start_page_title: "Some text to be the title of the start page for my questions"
         start_page_description: "Some HTML to be the description on the start page for my questions"
+        source: `yaml` or `database` 
 ```
 
 
 * Now you're ready to go! The `name-of-questions-file` key in the items yaml file will now be available as an endpoint, so in this example you'd go to `localhost:3000/name-of-questions-file`
-* As users answer the questions, it'll create Answer records with all the relevant information, you can query the answers for your questions with something like `Answer.where(collection: "example")` 
+* As users answer the questions, it'll create SelectedAnswer records with all the relevant information, you can query the answers for your questions with something like `Answer.where(collection: "example")` 
 
 ## Reviewing answers
 

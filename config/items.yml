@@ -3,25 +3,39 @@ default: &default
   example:
     start_page_title: "Help us improve our content"
     start_page_description: "<p>We're trying to improve our content, you can help us do this</p><p>We want to ask you some simple questions. It will take around 15 minutes, you can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+    source: "yaml"
+  example_database:
+    start_page_title: "Help us improve our content with some things we didn't want to put in a repo"
+    start_page_description: "<p>We're trying to improve our content, you can help us do this</p><p>We want to ask you some simple questions. It will take around 15 minutes, you can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+    source: "database"
   money:
     start_page_title: "Help us improve our topic tagging"
     start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+    source: "yaml"
   education:
     start_page_title: "Help us improve our topic tagging"
     start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+    source: "yaml"
   health:
     start_page_title: "Help us improve our topic tagging"
     start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+    source: "yaml"
   money_gds:
     start_page_title: "Help us improve our topic tagging"
     start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+    source: "yaml"
   education_gds:
     start_page_title: "Help us improve our topic tagging"
     start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+    source: "yaml"
   health_gds:
     start_page_title: "Help us improve our topic tagging"
     start_page_description: "<p>We're trying to improve how our content is tagged to topics, you can help us do this</p><p>We want to ask you some simple questions about where you think content ought to belong. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
-
+    source: "yaml"
+  jobs_to_be_done_round_two:
+    start_page_title: "Help us to understand what users are doing on the site"
+    start_page_description: "<p>We're trying to understand what users are doing on the site, you can help us do this</p><p>We need to train and evaluate a machine learning model to help classify whether users are trying to 'do a thing', 'advise on a thing' or 'change a thing'. We want to ask you to decide which category respondents to the User Intent Survey fit into. You can answer as few or as many questions as you like.</p><p>If you want to stop and come back, it'll remember where you were and you can pick up from where you left off.</p>"
+    source: "database"
 
 development:
   <<: *default

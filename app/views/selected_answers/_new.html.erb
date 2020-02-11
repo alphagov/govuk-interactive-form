@@ -1,7 +1,7 @@
-<%= form_with model: Answer.new do |form| %>
+<%= form_with model: SelectedAnswer.new do |form| %>
   <div class="radio-container" data-key-to-show-more-detail-prompt="<%= item['key_to_show_more_detail_prompt'] %>">
     <%= render "govuk_publishing_components/components/radio", {
-        name: "answer[answer]",
+        name: "selected_answer[answer]",
         items: answers.each_with_object([]) { |item, items| items << { value: item['key'], text: item['text'].html_safe } }
     } %>
   </div>
@@ -15,7 +15,7 @@
       label: {
           text: item['more_detail_prompt']
       },
-      name: "answer[explanation]",
+      name: "selected_answer[explanation]",
       rows: 2,
     } %>
   </div>
