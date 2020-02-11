@@ -1,10 +1,10 @@
 require 'csv'
 
-desc "Exports all answer models to csv"
+desc "Exports all selected answer models to csv"
 task "export_collection", [:collection] => :environment do |_, args|
-  records = Answer.where(collection: args[:collection])
+  records = SelectedAnswer.where(collection: args[:collection])
   puts "Exporting #{records.count} answers to csv"
-  column_names = Answer.column_names.reject { |column_name| column_name == "id" }
+  column_names = SelectedAnswer.column_names.reject { |column_name| column_name == "id" }
   filename = "#{args[:collection]}_export.csv"
   CSV.open(filename, "wb") do |csv|
     csv << column_names
@@ -19,11 +19,11 @@ desc "Exports decisions for a collection to csv"
 task "export_decisions", [:collection] => :environment do |_, args|
   puts "Exporting decisions to csv"
   filename = "#{args[:collection]}_decisions_export.csv"
-  answer_names = Answer.where(collection: args[:collection]).pluck(:answer).to_a.uniq.sort
+  answer_names = SelectedAnswer.where(collection: args[:collection]).pluck(:answer).to_a.uniq.sort
   CSV.open(filename, "wb") do |csv|
     csv << [ "Item id", "Most popular answer", "Unanimous?" ] + answer_names.map { |name| "#{name} count" } + answer_names.map { |name| "#{name} explanations" }
 
-    Answer.where(collection: args[:collection]).group_by{ |answer| answer.item_id + answer.question }.each do |item_id, answers|
+    SelectedAnswer.where(collection: args[:collection]).group_by{ |answer| answer.item_id + answer.question }.each do |item_id, answers|
       answer_counts = Hash.new(0)
       answer_explanations = Hash.new { |h,k|  h[k] = Array.new }
       answers.each do |answer|
