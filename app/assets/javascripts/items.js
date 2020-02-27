@@ -12,7 +12,7 @@ $(document).on("change", ".radio-container input", function(){
   var keyToShowMoreDetail = $(this).parents(".radio-container").data("key-to-show-more-detail-prompt");
   if($(this).parents(".radio-container").data("key-to-show-more-detail-prompt") == key){
     currentItem().find(".more-detail").show();
-    $("[name='answer[explanation]']").val("");
+    $("[name='selected_answer[explanation]']").val("");
   } else {
     currentItem().find(".more-detail").hide();
   }
@@ -20,7 +20,7 @@ $(document).on("change", ".radio-container input", function(){
 });
 
 $(document).on("click", ".submit-answer-button button", function(e){
-  if(currentItem().find("input[name='answer[answer]']:checked").length){
+  if(currentItem().find("input[name='selected_answer[answer]']:checked").length){
     next();
   } else {
     currentItem().find(".select-answer-warning").show();
@@ -31,7 +31,7 @@ $(document).on("click", ".skip", function(e){
   e.preventDefault();
   $form = currentItem().find("form");
   // Uncheck anything they have selected
-  $form.find("input[name='answer[answer]']").prop('checked',false);
+  $form.find("input[name='selected_answer[answer]']").prop('checked',false);
   $form.submit();
   next();
   return false;

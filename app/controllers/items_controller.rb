@@ -14,7 +14,7 @@ private
   def fetch_item_data
     @items_name = params[:items]
     @item_data = Rails.application.config_for(:items)[@items_name]
-    if @items_data.nil?
+    if @item_data.nil?
       render "not_found" && return
     end
   end
@@ -24,7 +24,12 @@ private
       cookies[items_key(@items_name)] = { value: rand(99999999999), expires: 2.weeks }
       cookies[index_key(@items_name)] = { value: 0, expires: 2.weeks }
     end
-    @items = YAML.load_file("config/items/#{@items_name}.yml")["questions"]
+
+    if @item_data["source"] == "yaml"
+      @items = YAML.load_file("config/items/#{@items_name}.yml")["questions"]
+    elsif @item_data["source"] == "database"
+      @items = Question.where(collection: @items_name).to_a
+    end
     # Shuffle in a reproducible fashion so if they return with the same cookie they'll get the same order
     seed = Random.new(cookies[items_key(@items_name)].to_i)
     @items.shuffle!(random: seed)
