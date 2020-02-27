@@ -10,7 +10,7 @@ gem "govuk_publishing_components", "~> 21.21"
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'pg', '~> 1.1', '>= 1.1.4'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'rails', '~> 5.2.3'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '~> 4.1'
