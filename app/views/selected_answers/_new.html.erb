@@ -2,7 +2,7 @@
   <div class="radio-container" data-key-to-show-more-detail-prompt="<%= item['key_to_show_more_detail_prompt'] %>">
     <%= render "govuk_publishing_components/components/radio", {
         name: "selected_answer[answer]",
-        items: answers.each_with_object([]) { |item, items| items << { value: item['key'], text: item['text'].html_safe } }
+        items: present_answers(item)
     } %>
   </div>
   <%= form.text_field :question, class: "hidden", value: item['question'] %>
